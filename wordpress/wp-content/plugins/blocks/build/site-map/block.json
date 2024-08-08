@@ -1,0 +1,54 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "blocks/sitemap",
+  "title": "Plan du Site",
+  "description": "Affiche un plan du site",
+  "keywords": [
+    "plan de site",
+    "sitemap"
+  ],
+  "category": "blocks",
+  "attributes": {
+    "preview": {
+      "type": "boolean",
+      "default": false
+    },
+    "openInNewTab": {
+      "type": "boolean",
+      "default": false
+    },
+    "excludedCPTItems": {
+      "type": "object",
+      "default": {}
+    },
+    "excludedCategories": {
+      "type": "object",
+      "default": {}
+    },
+    "excludedArticles": {
+      "type": "object",
+      "default": {}
+    },
+    "hasCPT": {
+      "type": "object",
+      "default": {}
+    },
+    "showPosts": {
+      "type": "boolean",
+      "default": false
+    },
+    "anchor": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "example": {
+    "attributes": {
+      "preview": true
+    }
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./editor.css",
+  "style": "file:./style.css"
+}

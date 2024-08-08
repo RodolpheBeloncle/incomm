@@ -1,0 +1,38 @@
+{
+	"name": "ocade-blocks",
+	"version": "0.1.0",
+	"description": "Plugin de création de blocks Gutenberg Wordpress",
+	"author": "Valentin Charrier",
+	"license": "MIT",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build && npm run build:scss && npm run copie-icones && npm run postcss",
+		"build:scss": "sass src/styles.scss build/styles.css --no-source-map && sass src/styles.scss build/styles.css && sass src/editors.scss build/editors.css --no-source-map && sass src/editors.scss build/editors.css && npm run minify:css",
+		"watch:scss": "nodemon -e scss -x \"npm run build:scss\"",
+		"minify:css": "cleancss -o build/styles.min.css build/styles.css && cleancss -o build/editors.min.css build/editors.css",
+		"copie-icones": "cp -R src/*/*.svg build",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "concurrently \"sleep 5 && npm run watch:scss\" \"wp-scripts start\"",
+		"lint:scss": "npm run lint:scss-fix && npx stylelint 'src/**/*.scss'",
+		"lint:scss-fix": "npx stylelint 'src/**/*.scss' --fix",
+		"test": "(npm run lint:scss && exit 0) || exit 1 && (sh ./run-tests.sh && exit 0) || exit 1",
+		"push": "rm -rf build && git pull origin master &&  git add . && git commit . -m '🚀 Mise à jour du projet' && git push -u origin master && npm run build",
+		"postcss": "postcss build/*.css --use cssnano --dir build/"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^27.1.0",
+		"clean-css-cli": "^5.6.2",
+		"concurrently": "^8.2.0",
+		"nodemon": "^3.0.3",
+		"stylelint": "^15.6.2",
+		"stylelint-config-standard": "^33.0.0"
+	},
+	"dependencies": {
+		"@wordpress/i18n": "^4.41.0",
+		"cssnano": "^6.0.5"
+	}
+}

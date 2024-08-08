@@ -1,0 +1,689 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocade Blocks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-20 06:16+0000\n"
+"PO-Revision-Date: 2023-04-25 18:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: ocade-blocks"
+
+#: src/address/index.js:11
+msgid "Adresses"
+msgstr "Adresses"
+
+#: src/debug/index.js:12
+msgid "Afficher des informations sur les blocks"
+msgstr "Afficher des informations sur les blocks"
+
+#: src/tel/edit-inspecteur.js:35 src/fax/edit-inspecteur.js:35
+msgid "Afficher l'icône"
+msgstr "Afficher l'icône"
+
+#: src/fax/edit-inspecteur.js:36
+msgid "Afficher l'icône fax"
+msgstr "Afficher l'icône fax"
+
+#: src/tel/edit-inspecteur.js:36
+msgid "Afficher l'icône tel"
+msgstr "Afficher l'icône tel"
+
+#: src/remontees-categories/edit-inspecteur.js:22
+msgid "Afficher le nombre d'articles"
+msgstr "Afficher le nombre d'articles"
+
+#: src/mailto/edit-inspecteur.js:36
+msgid "Afficher l’icône"
+msgstr "Afficher l’icône"
+
+#: src/mailto/edit-inspecteur.js:37
+msgid "Afficher l’icône mailto"
+msgstr "Afficher l’icône mailto"
+
+#: src/alert/index.js:12
+msgid "Afficher une alerte avec choix de la couleur."
+msgstr "Afficher une alerte avec choix de la couleur."
+
+#: src/remontees-categories/index.js:12
+msgid "Ajouter de vos catégories d'articles"
+msgstr "Ajouter de vos catégories d'articles"
+
+#: src/address/index.js:12
+msgid "Ajouter des informations d'addresse (nom société, email, tel...)"
+msgstr "Ajouter des informations d'addresse (nom société, email, tel...)"
+
+#: src/site-anciennete/index.js:12
+msgid "Ajouter l'ancienneté de votre site"
+msgstr "Ajouter l'ancienneté de votre site"
+
+#: src/person/index.js:12
+msgid "Ajouter le nom et prénom d'une personne (optimisé SEO)"
+msgstr "Ajouter le nom et prénom d'une personne (optimisé SEO)"
+
+#: src/latest-posts/index.js:12
+msgid "Ajouter les derniers articles"
+msgstr "Ajouter les derniers articles"
+
+#: src/post/index.js:12
+msgid "Ajouter un article au choix ou simplement le dernier article"
+msgstr "Ajouter un article au choix ou simplement le dernier article"
+
+#: src/breadcrumb/index.js:12
+msgid "Ajouter un file d'ariane (supprime celui par défault)"
+msgstr "Ajouter un file d'ariane (supprime celui par défault)"
+
+#: src/search/index.js:12
+msgid "Ajouter un formulaire de recherche"
+msgstr "Ajouter un formulaire de recherche"
+
+#: src/formulaire/index.js:12
+msgid "Ajouter un formulaire précédement créé avec le plugins Gravity Forms"
+msgstr "Ajouter un formulaire précédement créé avec le plugins Gravity Forms"
+
+#: src/fax/index.js:12
+msgid "Ajouter un lien de fax (fax)"
+msgstr "Ajouter un lien de fax (fax)"
+
+#: src/mailto/index.js:12 src/default/index.js:12
+msgid "Ajouter un lien email (mailto)"
+msgstr "Ajouter un lien email (mailto)"
+
+#: src/tel/index.js:12
+msgid "Ajouter un lien téléphone (tel)"
+msgstr "Ajouter un lien téléphone (tel)"
+
+#: src/navgrid/index.js:12
+msgid "Ajouter une grille de navigation"
+msgstr "Ajouter une grille de navigation"
+
+#: src/footer-menu/index.js:12
+msgid "Ajouter une navigation de footer"
+msgstr "Ajouter une navigation de footer"
+
+#: src/alert/index.js:11
+msgid "Alerte"
+msgstr "Alerte"
+
+#: src/post/edit-inspecteur.js:96
+msgid "Alignement vertical ?"
+msgstr "Alignement vertical ?"
+
+#: src/site-anciennete/edit-inspecteur.js:24
+msgid "Année de lancement du site"
+msgstr "Année de lancement du site"
+
+#: src/search/edit-inspecteur.js:144
+msgid "Appliquer un filtre"
+msgstr "Appliquer un filtre"
+
+#: src/icon/edit-inspecteur.js:77
+msgid "Arrondie autour de l'icone %"
+msgstr "Arrondie autour de l'icone %"
+
+#: src/icon/edit-inspecteur.js:76
+msgid "Arrondie Bordure"
+msgstr "Arrondie Bordure"
+
+#: src/post/index.js:11
+msgid "Article"
+msgstr "Article"
+
+#: src/search/edit-toolbar.js:25
+msgid "Aucun"
+msgstr "Aucun"
+
+#: includes/dynamic-blocks-render/post.php:45
+#: src/latest-posts/edit-block.js:123 src/post/edit-block.js:122
+msgid "Aucun article trouvé"
+msgstr "Aucun article trouvé"
+
+#: src/_composants/searchcpt/index.js:26 src/_composants/searchpost/index.js:25
+#: src/_composants/searchcategories/index.js:26
+msgid "Aucun résultat"
+msgstr "Aucun résultat"
+
+#: src/latest-posts/post.js:88 src/post/post.js:88
+msgid "Auteur"
+msgstr "Auteur"
+
+#: src/alert/edit-toolbar.js:22
+msgid "Avertissement"
+msgstr "Avertissement"
+
+#: src/icon/edit-inspecteur.js:98
+msgid "Caché"
+msgstr "Caché"
+
+#: src/latest-posts/post.js:85 src/post/post.js:85
+msgid "Catégorie"
+msgstr "Catégorie"
+
+#: src/formulaire/edit-inspecteur.js:21
+msgid "Champs Obligatoires"
+msgstr "Champs Obligatoires"
+
+#: src/latest-posts/post.js:109 src/post/post.js:109
+msgid "Chargement article..."
+msgstr "Chargement article..."
+
+#: src/post/edit-inspecteur.js:78
+msgid "Chercher un article"
+msgstr "Chercher un article"
+
+#: src/latest-posts/edit-inspecteur.js:53 src/post/edit-inspecteur.js:90
+msgid "Chercher un catégorie"
+msgstr "Chercher un catégorie"
+
+#: src/search/edit-inspecteur.js:96
+msgid "Choisir la hauteur du champs (px)"
+msgstr "Choisir la hauteur du champs (px)"
+
+#: src/icon/edit-inspecteur.js:33
+msgid "Choisir la taille de l'icône (rem)"
+msgstr "Choisir la taille de l'icône (rem)"
+
+#: src/icon/edit-inspecteur.js:42
+msgid "Choisir la taille de la bordure (rem)"
+msgstr "Choisir la taille de la bordure (rem)"
+
+#: src/icon/edit-inspecteur.js:24
+msgid "Choisir la taille du contour (rem)"
+msgstr "Choisir la taille du contour (rem)"
+
+#: src/search/edit-inspecteur.js:160
+msgid "Choisir le nombre d'éléments à afficher"
+msgstr "Choisir le nombre d'éléments à afficher"
+
+#: src/post/edit-inspecteur.js:65
+msgid "Choisir un article ?"
+msgstr "Choisir un article ?"
+
+#: src/navgrid/edit-inspecteur.js:23
+msgid "Colonnes"
+msgstr "Colonnes"
+
+#: src/alert/edit-toolbar.js:14
+msgid "Conseil"
+msgstr "Conseil"
+
+#: src/search/edit-inspecteur.js:107
+msgid "Couleur Bouton"
+msgstr "Couleur Bouton"
+
+#: src/search/edit-inspecteur.js:125
+msgid "Couleur Bouton (survol)"
+msgstr "Couleur Bouton (survol)"
+
+#: src/icon/edit-inspecteur.js:58
+msgid "Couleur de fond"
+msgstr "Couleur de fond"
+
+#: src/icon/edit-inspecteur.js:68
+msgid "Couleur de la bordure"
+msgstr "Couleur de la bordure"
+
+#: src/search/edit-inspecteur.js:105 src/icon/edit-inspecteur.js:51
+msgid "Couleurs"
+msgstr "Couleurs"
+
+#: src/icon/edit-inspecteur.js:63
+msgid "Couleurs Bordures"
+msgstr "Couleurs Bordures"
+
+#: src/icon/edit-inspecteur.js:53
+msgid "Couleurs Fond"
+msgstr "Couleurs Fond"
+
+#: src/search/edit-inspecteur.js:116
+msgid "Couleurs Fond Bouton"
+msgstr "Couleurs Fond Bouton"
+
+#: src/search/edit-inspecteur.js:134
+msgid "Couleurs Fond Bouton (survol)"
+msgstr "Couleurs Fond Bouton (survol)"
+
+#: src/icon/edit-inspecteur.js:94
+msgid "Crête"
+msgstr "Crête"
+
+#: src/alert/edit-toolbar.js:30
+msgid "Danger"
+msgstr "Danger"
+
+#: src/latest-posts/post.js:91 src/post/post.js:91
+msgid "Date de publication"
+msgstr "Date de publication"
+
+#: src/debug/index.js:11
+msgid "Debug"
+msgstr "Debug"
+
+#: src/latest-posts/index.js:11
+msgid "Derniers Articles"
+msgstr "Derniers Articles"
+
+#: src/icon/edit-inspecteur.js:74
+msgid "Divers"
+msgstr "Divers"
+
+#: src/icon/edit-inspecteur.js:92
+msgid "Double"
+msgstr "Double"
+
+#: src/person/edit-block.js:22
+msgid "Ecrire le Nom"
+msgstr "Ecrire le Nom"
+
+#: src/person/edit-block.js:14
+msgid "Ecrire le Prénom"
+msgstr "Ecrire le Prénom"
+
+#: src/alert/edit-block.js:12 src/default/edit-block.js:12
+msgid "Ecrire un contenu"
+msgstr "Ecrire un contenu"
+
+#: src/navgrid-item/index.js:12
+msgid "Elément de la grille de navigation"
+msgstr "Elément de la grille de navigation"
+
+#: src/footer-menu-item/index.js:12
+msgid "Elément de la navigation de footer"
+msgstr "Elément de la navigation de footer"
+
+#: src/mailto/index.js:11 src/mailto/edit-inspecteur.js:24
+msgid "Email"
+msgstr "Email"
+
+#: src/mailto/edit-inspecteur.js:25
+msgid "Email du destinataire"
+msgstr "Email du destinataire"
+
+#: src/latest-posts/post.js:103 src/post/post.js:103
+msgid "En savoir plus"
+msgstr "En savoir plus"
+
+#: src/_composants/searchcategories/index.js:37
+msgid "Erreur lors de la récupération des catégories."
+msgstr "Erreur lors de la récupération des catégories."
+
+#: src/icon/edit-inspecteur.js:96
+msgid "Externe"
+msgstr "Externe"
+
+#: src/search/edit-toolbar.js:24
+msgid "Extérieur"
+msgstr "Extérieur"
+
+#: src/post/edit-inspecteur.js:63
+msgid "Faite votre choix !"
+msgstr "Faite votre choix !"
+
+#: src/fax/index.js:11
+msgid "Fax"
+msgstr "Fax"
+
+#: src/fax/edit-inspecteur.js:23
+msgid "Faxer"
+msgstr "Faxer"
+
+#: src/breadcrumb/index.js:11
+msgid "File d'ariane"
+msgstr "File d'ariane"
+
+#: src/post/edit-inspecteur.js:84
+msgid "Filtre catégorie"
+msgstr "Filtre catégorie"
+
+#: src/footer-menu/index.js:11
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: src/footer-menu-item/index.js:11
+msgid "Footer Menu Item"
+msgstr "Footer Menu Item"
+
+#: src/formulaire/index.js:11
+msgid "Formulaire"
+msgstr "Formulaire"
+
+#: src/navgrid/index.js:11
+msgid "Grille de Navigation"
+msgstr "Grille de Navigation"
+
+#: src/navgrid-item/index.js:11
+msgid "Grille de Navigation Item"
+msgstr "Grille de Navigation Item"
+
+#: src/search/edit-inspecteur.js:95
+msgid "Hauteur (px)"
+msgstr "Hauteur (px)"
+
+#: src/latest-posts/edit-inspecteur.js:74 src/post/edit-inspecteur.js:107
+msgid "Hauteur de l'image"
+msgstr "Hauteur de l'image"
+
+#. Author URI of the plugin
+msgid "https://ocade-systeme.fr"
+msgstr "https://ocade-systeme.fr"
+
+#: src/icon/index.js:11
+msgid "Icône"
+msgstr "Icône"
+
+#: src/tel/edit-inspecteur.js:21 src/mailto/edit-inspecteur.js:22
+#: src/navgrid-item/edit-inspecteur.js:22 src/navgrid/edit-inspecteur.js:21
+#: src/site-anciennete/edit-inspecteur.js:22
+#: src/footer-menu-item/edit-inspecteur.js:22 src/fax/edit-inspecteur.js:21
+msgid "Informations"
+msgstr "Informations"
+
+#: src/debug/edit-inspecteur.js:23
+msgid "Informations Blocks"
+msgstr "Informations Blocks"
+
+#: src/latest-posts/edit-inspecteur.js:48
+msgid "Informations Générales"
+msgstr "Informations Générales"
+
+#: src/icon/index.js:12
+msgid "Insérer une icône "
+msgstr "Insérer une icône "
+
+#: src/icon/edit-inspecteur.js:95
+msgid "Interne"
+msgstr "Interne"
+
+#: src/search/edit-toolbar.js:23
+msgid "Intérieur"
+msgstr "Intérieur"
+
+#: includes/dynamic-blocks-render/search.php:98
+msgid "Lancer la recherche"
+msgstr "Lancer la recherche"
+
+#: src/search/edit-block.js:43
+msgid "Lancer une recherche…"
+msgstr "Lancer une recherche…"
+
+#: src/search/edit-inspecteur.js:81
+msgid "Longueur"
+msgstr "Longueur"
+
+#: src/formulaire/edit-inspecteur.js:28 src/formulaire/edit-inspecteur.js:30
+#: src/latest-posts/edit-inspecteur.js:89 src/post/edit-inspecteur.js:122
+msgid "Niveau de titre"
+msgstr "Niveau de titre"
+
+#: src/latest-posts/edit-inspecteur.js:58
+msgid "Nombre d'article(s) à afficher"
+msgstr "Nombre d'article(s) à afficher"
+
+#: src/search/edit-inspecteur.js:159
+msgid "Nombre d'éléments"
+msgstr "Nombre d'éléments"
+
+#: src/navgrid/edit-inspecteur.js:24
+msgid "Nombre de colonnes à afficher"
+msgstr "Nombre de colonnes à afficher"
+
+#: src/latest-posts/edit-inspecteur.js:57
+msgid "Nombre Par Page"
+msgstr "Nombre Par Page"
+
+#: src/formulaire/edit-block.js:40
+msgid "Note de pied de page"
+msgstr "Note de pied de page"
+
+#: src/icon/edit-inspecteur.js:97
+msgid "Nule"
+msgstr "Nule"
+
+#: src/fax/edit-inspecteur.js:24
+msgid "Numéro de fax du destinataire"
+msgstr "Numéro de fax du destinataire"
+
+#: src/tel/edit-inspecteur.js:24
+msgid "Numéro de téléphone du destinataire"
+msgstr "Numéro de téléphone du destinataire"
+
+#. Name of the plugin
+msgid "Ocade Blocks"
+msgstr "Ocade Blocks"
+
+#: src/search/edit-inspecteur.js:179
+msgid "Ordre"
+msgstr "Ordre"
+
+#: src/latest-posts/edit-inspecteur.js:145 src/post/edit-inspecteur.js:173
+msgid "Ordre de l'auteur"
+msgstr "Ordre de l'auteur"
+
+#: src/latest-posts/edit-inspecteur.js:175 src/post/edit-inspecteur.js:203
+msgid "Ordre de l'extrait"
+msgstr "Ordre de l'extrait"
+
+#: src/latest-posts/edit-inspecteur.js:125 src/post/edit-inspecteur.js:153
+msgid "Ordre de l'image"
+msgstr "Ordre de l'image"
+
+#: src/latest-posts/edit-inspecteur.js:165 src/post/edit-inspecteur.js:193
+msgid "Ordre de la catégorie"
+msgstr "Ordre de la catégorie"
+
+#: src/latest-posts/edit-inspecteur.js:155 src/post/edit-inspecteur.js:183
+msgid "Ordre de la date"
+msgstr "Ordre de la date"
+
+#: src/latest-posts/edit-inspecteur.js:186 src/post/edit-inspecteur.js:214
+msgid "Ordre du bouton lire la suite"
+msgstr "Ordre du bouton lire la suite"
+
+#: src/latest-posts/edit-inspecteur.js:135 src/post/edit-inspecteur.js:163
+msgid "Ordre du titre"
+msgstr "Ordre du titre"
+
+#: src/remontees-categories/edit-inspecteur.js:20
+msgid "Paramètres"
+msgstr "Paramètres"
+
+#: src/latest-posts/edit-inspecteur.js:66 src/post/edit-inspecteur.js:94
+msgid "Personnalisation Article"
+msgstr "Personnalisation Article"
+
+#: src/person/index.js:11
+msgid "Personne"
+msgstr "Personne"
+
+#. Description of the plugin
+msgid "Plugin by Ocade ~ Création de blocks Gutenberg Wordpress"
+msgstr ""
+"Plugin par Ocade ~ Création de blocs Gutenberg Wordpress\n"
+"\n"
+
+#: src/icon/edit-inspecteur.js:91
+msgid "Point"
+msgstr "Point"
+
+#: src/icon/edit-inspecteur.js:90
+msgid "Pointillé"
+msgstr "Pointillé"
+
+#: src/search-results/index.js:12
+msgid ""
+"Présenter les résultats de la recherche \n"
+" Uniquement slug page = ocade-search"
+msgstr ""
+"Présenter les résultats de la recherche Uniquement slug page = ocade-search"
+
+#: src/icon/edit-inspecteur.js:93
+msgid "Rainure"
+msgstr "Rainure"
+
+#: includes/dynamic-blocks-render/search.php:51
+#: includes/dynamic-blocks-render/search.php:52 src/search/index.js:11
+msgid "Recherche"
+msgstr "Recherche"
+
+#: src/_composants/searchcpt/index.js:18 src/_composants/searchpost/index.js:19
+#: src/_composants/searchcategories/index.js:19
+msgid "Recherche en cours..."
+msgstr "Recherche en cours..."
+
+#: src/latest-posts/edit-block.js:116
+msgid "Recherche les articles..."
+msgstr "Recherche les articles..."
+
+#: src/search/edit-block.js:32 src/search/edit-block.js:61
+msgid "Rechercher"
+msgstr "Rechercher"
+
+#: src/remontees-categories/index.js:11
+msgid "Remontées Catégories"
+msgstr "Remontées Catégories"
+
+#: src/tel/edit-inspecteur.js:13 src/formulaire/edit-inspecteur.js:13
+#: src/alert/edit-inspecteur.js:11 src/search/edit-inspecteur.js:60
+#: src/icon/edit-inspecteur.js:13 src/footer-menu/edit-inspecteur.js:12
+#: src/mailto/edit-inspecteur.js:14 src/navgrid-item/edit-inspecteur.js:14
+#: src/address/edit-inspecteur.js:11 src/person/edit-inspecteur.js:11
+#: src/breadcrumb/edit-inspecteur.js:11
+#: src/remontees-categories/edit-inspecteur.js:12
+#: src/default/edit-inspecteur.js:11 src/navgrid/edit-inspecteur.js:13
+#: src/site-anciennete/edit-inspecteur.js:14
+#: src/latest-posts/edit-inspecteur.js:40 src/debug/edit-inspecteur.js:15
+#: src/footer-menu-item/edit-inspecteur.js:14 src/fax/edit-inspecteur.js:13
+#: src/post/edit-inspecteur.js:55
+msgid "Réinitialisation"
+msgstr "Réinitialisation"
+
+#: src/search-results/index.js:11
+msgid "Résultats de Recherche"
+msgstr "Résultats de Recherche"
+
+#: src/site-anciennete/index.js:11
+msgid "Site Ancienneté"
+msgstr "Site Ancienneté"
+
+#: src/icon/edit-inspecteur.js:89
+msgid "Solide"
+msgstr "Solide"
+
+#: src/icon/edit-inspecteur.js:85
+msgid "Style de la bordure"
+msgstr "Style de la bordure"
+
+#: src/formulaire/edit-inspecteur.js:23
+msgid "Symbole"
+msgstr "Symbole"
+
+#: src/icon/edit-block.js:47
+msgid "Sélectionnez une icône"
+msgstr "Sélectionnez une icône"
+
+#: src/icon/edit-inspecteur.js:23
+msgid "Taille Contour"
+msgstr "Taille Contour"
+
+#: src/icon/edit-inspecteur.js:41
+msgid "Taille de la bordure"
+msgstr "Taille de la bordure"
+
+#: src/icon/edit-inspecteur.js:32
+msgid "Taille Icône"
+msgstr "Taille Icône"
+
+#: src/search/edit-inspecteur.js:79 src/icon/edit-inspecteur.js:21
+msgid "Tailles"
+msgstr "Tailles"
+
+#: src/default/index.js:11
+msgid "Terme en français"
+msgstr "Terme en français"
+
+#: src/tel/edit-inspecteur.js:30 src/mailto/edit-inspecteur.js:31
+#: src/navgrid-item/edit-inspecteur.js:30
+#: src/footer-menu-item/edit-inspecteur.js:30 src/fax/edit-inspecteur.js:30
+msgid "Texte affiché au survol"
+msgstr "Texte affiché au survol"
+
+#: src/latest-posts/edit-inspecteur.js:194 src/post/edit-inspecteur.js:222
+msgid "Texte du bouton lire la suite"
+msgstr "Texte du bouton lire la suite"
+
+#: src/fax/edit-block.js:18
+msgid "Texte du lien fax"
+msgstr "Texte du lien fax"
+
+#: src/mailto/edit-block.js:18
+msgid "Texte du lien mailto"
+msgstr "Texte du lien mailto"
+
+#: src/tel/edit-block.js:18
+msgid "Texte du lien tel"
+msgstr "Texte du lien tel"
+
+#: src/tel/edit-inspecteur.js:29 src/mailto/edit-inspecteur.js:30
+#: src/navgrid-item/edit-inspecteur.js:29
+#: src/footer-menu-item/edit-inspecteur.js:29 src/fax/edit-inspecteur.js:29
+msgid "Titre"
+msgstr "Titre"
+
+#: src/formulaire/edit-block.js:16
+msgid "Titre du formulaire"
+msgstr "Titre du formulaire"
+
+#: src/search/edit-inspecteur.js:168
+msgid "Tri"
+msgstr "Tri"
+
+#: src/tel/index.js:11 src/tel/edit-inspecteur.js:23
+msgid "Téléphone"
+msgstr "Téléphone"
+
+#: src/navgrid-item/edit-inspecteur.js:24
+#: src/footer-menu-item/edit-inspecteur.js:24
+msgid "URL"
+msgstr "URL"
+
+#. Author of the plugin
+msgid "Valentin Charrier"
+msgstr "Valentin Charrier"
+
+#: src/search/edit-inspecteur.js:70
+msgid "Variation"
+msgstr "Variation"
+
+#: src/search/edit-inspecteur.js:68
+msgid "Variations"
+msgstr "Variations"
+
+#: src/latest-posts/edit-inspecteur.js:104 src/post/edit-inspecteur.js:137
+msgid "Voir l'auteur ?"
+msgstr "Voir l'auteur ?"
+
+#: src/latest-posts/edit-inspecteur.js:119 src/post/edit-inspecteur.js:147
+msgid "Voir l'extrait ?"
+msgstr "Voir l'extrait ?"
+
+#: src/latest-posts/edit-inspecteur.js:68 src/post/edit-inspecteur.js:101
+msgid "Voir l'image ?"
+msgstr "Voir l'image ?"
+
+#: src/latest-posts/edit-inspecteur.js:114
+msgid "Voir la catégorie ?"
+msgstr "Voir la catégorie ?"
+
+#: src/latest-posts/edit-inspecteur.js:109 src/post/edit-inspecteur.js:142
+msgid "Voir la date ?"
+msgstr "Voir la date ?"
+
+#: src/latest-posts/edit-inspecteur.js:83 src/post/edit-inspecteur.js:116
+msgid "Voir le titre ?"
+msgstr "Voir le titre ?"

@@ -1,0 +1,78 @@
+version: '3.6'
+services:
+
+  php:
+    image: wodby/wordpress-php:7.4-arm64-dev-4.17.2 # Use the ARM64-compatible image
+    container_name: ${COMPOSE_PROJECT_NAME}_php
+    user: ${USER_ID}:${GROUP_ID}
+    build: . # Utilize your ./Dockerfile if needed
+    environment:
+      DB_HOST: ${WORDPRESS_DB_HOST_FILE:-mysql}
+      DB_USER: ${WORDPRESS_DB_USER_FILE:-root}
+      DB_PASSWORD: ${WORDPRESS_DB_PASSWORD_FILE:-password}
+      DB_NAME: ${WORDPRESS_DB_NAME_FILE:-wordpress}
+    volumes:
+      - ./:/var/www/html:cached
+
+  wordpress:
+    image: wordpress:${WORDPRESS_VERSION_FILE:-latest}
+    container_name: ${COMPOSE_PROJECT_NAME:-wordpress}
+    volumes:
+      - ./config/php.conf.ini:/usr/local/etc/php/conf.d/php.ini
+      - ${WORDPRESS_DATA_DIR_FILE:-./wordpress}:/var/www/html
+    environment:
+      - WORDPRESS_DB_NAME=${WORDPRESS_DB_NAME_FILE:-wordpress}
+      - WORDPRESS_TABLE_PREFIX=${WORDPRESS_TABLE_PREFIX_FILE:-wp_}
+      - WORDPRESS_DB_HOST=${WORDPRESS_DB_HOST_FILE:-mysql}
+      - WORDPRESS_DB_USER=${WORDPRESS_DB_USER_FILE:-root}
+      - WORDPRESS_DB_PASSWORD=${WORDPRESS_DB_PASSWORD_FILE:-password}
+      - WORDPRESS_DEBUG=${WORDPRESS_DEBUG_FILE:-true}
+    depends_on:
+      - mysql
+      - phpmyadmin
+    ports:
+      - 80:80
+    user: ${USER_ID}:${GROUP_ID}
+
+  mysql:
+    user: ${USER_ID}:${GROUP_ID}
+    image: mariadb:${MARIADB_VERSION_FILE:-latest}
+    container_name: ${COMPOSE_PROJECT_NAME}_mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD=${WORDPRESS_DB_PASSWORD_FILE:-password}
+      - MYSQL_USER=${WORDPRESS_DB_USER_FILE:-root}
+      - MYSQL_PASSWORD=${WORDPRESS_DB_PASSWORD_FILE:-password}
+      - MYSQL_DATABASE=${WORDPRESS_DB_NAME_FILE:-wordpress}
+    volumes:
+      - ./mysql:/var/lib/mysql
+      - ./mysql-init:/docker-entrypoint-initdb.d
+
+  phpmyadmin:
+    depends_on:
+      - mysql
+    image: phpmyadmin/phpmyadmin:${PHPMYADMIN_VERSION_FILE:-latest}
+    container_name: ${COMPOSE_PROJECT_NAME}_phpmyadmin
+    ports:
+      - ${PHPMYADMIN_PORT_FILE}:80
+    environment:
+      PMA_HOST: mysql
+      MYSQL_ROOT_PASSWORD: ${WORDPRESS_DB_PASSWORD_FILE:-password}
+
+  mailhog:
+    container_name: ${COMPOSE_PROJECT_NAME}_mailhog
+    image: mailhog/mailhog
+    ports:
+      - "8025:8025"
+      - "1025:1025"
+
+  portainer:
+    image: portainer/portainer-ce
+    container_name: ${COMPOSE_PROJECT_NAME}_portainer
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data
+    ports:
+      - "9000:9000"
+
+volumes:
+  portainer_data:

@@ -1,0 +1,7 @@
+path: wordpress
+server:
+  docroot: wordpress
+core config:
+  dbuser: incomm
+  dbname: incomm
+  dbpass: incomm

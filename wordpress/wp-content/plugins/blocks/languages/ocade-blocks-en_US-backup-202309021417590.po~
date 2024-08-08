@@ -1,0 +1,1335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocade Blocks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-25 21:08+0000\n"
+"PO-Revision-Date: 2023-09-02 14:17+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: ocade-blocks"
+
+#: build/address-postale/index.js:513 build/vcard/index.js:235
+#: src/address-postale/index.js:10 src/vcard/edit-inspecteur.js:98
+msgid "Adresse Postale"
+msgstr ""
+
+#: build/address/index.js:441 src/address/index.js:10
+msgid "Adresses"
+msgstr "Addresses"
+
+#: build/debug/index.js:502 src/debug/index.js:12
+msgid "Afficher des informations sur les blocks"
+msgstr "Display information about blocks"
+
+#: build/fax/index.js:152 build/tel/index.js:146 src/fax/edit-inspecteur.js:35
+#: src/tel/edit-inspecteur.js:36
+msgid "Afficher l'icône"
+msgstr "Display the icon"
+
+#: build/fax/index.js:153 src/fax/edit-inspecteur.js:36
+msgid "Afficher l'icône fax"
+msgstr "Display the fax icon"
+
+#: build/tel/index.js:147 src/tel/edit-inspecteur.js:37
+msgid "Afficher l'icône tel"
+msgstr "Display the tel icon"
+
+#: build/remontees-categories/index.js:127
+#: src/remontees-categories/edit-inspecteur.js:22
+msgid "Afficher le nombre d'articles"
+msgstr "Display the number of articles"
+
+#: build/search-results/index.js:109 src/search-results/edit-inspecteur.js:26
+msgid "Afficher les résultats en card"
+msgstr "Display the results in card"
+
+#: build/search-results/index.js:109 src/search-results/edit-inspecteur.js:26
+msgid "Afficher les résultats en ligne"
+msgstr "Display the results inline"
+
+#: build/address-postale/index.js:161 build/mailto/index.js:203
+#: src/address-postale/edit-inspecteur.js:57 src/mailto/edit-inspecteur.js:37
+msgid "Afficher l’icône"
+msgstr "Display icon"
+
+#: build/address-postale/index.js:162 src/address-postale/edit-inspecteur.js:58
+msgid "Afficher l’icône adresse"
+msgstr "Display the address icon"
+
+#: build/mailto/index.js:204 src/mailto/edit-inspecteur.js:38
+msgid "Afficher l’icône mailto"
+msgstr "Display the mailto icon"
+
+#: build/alert/index.js:582 src/alert/index.js:12
+msgid "Afficher une alerte avec choix de la couleur."
+msgstr "Display an alert with color choice"
+
+#: build/remontees-categories/index.js:469 src/remontees-categories/index.js:12
+msgid "Ajouter de vos catégories d'articles"
+msgstr "Add your article categories"
+
+#: build/card-price-toggle-wrapper-item/index.js:506
+#: src/card-price-toggle-wrapper-item/index.js:12
+msgid "Ajouter des cards de prix"
+msgstr "Add price cards"
+
+#: build/address/index.js:442 src/address/index.js:11
+msgid "Ajouter des informations d'addresse (nom société, email, tel...)"
+msgstr "Add address information (company name, email, phone...)"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:713
+#: src/card-price-toggle-wrapper-item-child/index.js:12
+msgid "Ajouter différents prix"
+msgstr "Add different prices"
+
+#: build/site-anciennete/index.js:480 src/site-anciennete/index.js:12
+msgid "Ajouter l'ancienneté de votre site"
+msgstr "Add your site's seniority"
+
+#: build/person/index.js:471 src/person/index.js:12
+msgid "Ajouter le nom et prénom d'une personne (optimisé SEO)"
+msgstr "Add the first and last name of a person (SEO optimized)"
+
+#: build/latest-posts/index.js:751 src/latest-posts/index.js:12
+msgid "Ajouter les derniers articles"
+msgstr "Add the latest articles"
+
+#: build/post/index.js:871 src/post/index.js:12
+msgid "Ajouter un article au choix ou simplement le dernier article"
+msgstr "Add a selected article or just the latest article"
+
+#: build/switcher-flag/index.js:429 src/switcher-flag/index.js:12
+msgid ""
+"Ajouter un block permettant de switcher de langue dans votre footer (plugin "
+"Polylang ou Polylang pro) obligatoire)"
+msgstr ""
+"Add a block to switch languages in your footer (Polylang or Polylang Pro "
+"required)"
+
+#: build/burger-btn/index.js:427 src/burger-btn/index.js:12
+msgid "Ajouter un bouton pour permettre l'ouverture du menu sur petit écran"
+msgstr "Add a button to allow menu opening on small screens"
+
+#: build/card-price-toggle/index.js:515 src/card-price-toggle/index.js:12
+msgid "Ajouter un bouton toggle dans les cards-price"
+msgstr "Add a toggle button in the price cards"
+
+#: build/breadcrumb/index.js:418 src/breadcrumb/index.js:12
+msgid "Ajouter un file d'ariane (supprime celui par défault)"
+msgstr "Add a breadcrumb trail (removes the default one)"
+
+#: build/search/index.js:988 src/search/index.js:12
+msgid "Ajouter un formulaire de recherche"
+msgstr "Add a search form"
+
+#: build/formulaire/index.js:562 src/formulaire/index.js:12
+msgid "Ajouter un formulaire précédement créé avec le plugins Gravity Forms"
+msgstr "Add a form previously created with the Gravity Forms plugin"
+
+#: build/fax/index.js:511 src/fax/index.js:12
+msgid "Ajouter un lien de fax (fax)"
+msgstr "Add a fax link (fax)"
+
+#: build/default/index.js:457 build/mailto/index.js:552 src/default/index.js:12
+#: src/mailto/index.js:11
+msgid "Ajouter un lien email (mailto)"
+msgstr "Add an email link (mailto)"
+
+#: build/vcard/index.js:552 src/vcard/index.js:12
+msgid ""
+"Ajouter un lien pour proposer l'enregistrement de coordonnées dans le "
+"téléphone de vos clients."
+msgstr "Add a link to offer saving contact details in your customers' phones."
+
+#: build/tel/index.js:495 src/tel/index.js:12
+msgid "Ajouter un lien téléphone (tel)"
+msgstr "Add a phone link (tel)"
+
+#: build/card-price-toggle-wrapper/index.js:425
+#: src/card-price-toggle-wrapper/index.js:12
+msgid "Ajouter un wrapper pour vos carte de prix"
+msgstr "Add a wrapper for your price cards"
+
+#: build/address-postale/index.js:514 src/address-postale/index.js:11
+msgid "Ajouter une adresse postale avec une icone"
+msgstr "Add a postal address with an icon"
+
+#: build/table-cell/index.js:430 src/table-cell/index.js:12
+msgid "Ajouter une cellule à la ligne"
+msgstr "Add a cell to the row"
+
+#: build/navgrid/index.js:464 src/navgrid/index.js:12
+msgid "Ajouter une grille de navigation"
+msgstr "Add a navigation grid"
+
+#: build/table-row/index.js:464 src/table-row/index.js:12
+msgid "Ajouter une ligne à votre tableau."
+msgstr "Add a row to your table."
+
+#: build/footer-menu/index.js:480 src/footer-menu/index.js:12
+msgid "Ajouter une navigation de footer"
+msgstr "Add a footer navigation"
+
+#: build/alert/index.js:581 src/alert/index.js:11
+msgid "Alerte"
+msgstr "Alert"
+
+#: build/post/index.js:613 src/post/edit-inspecteur.js:97
+msgid "Alignement vertical ?"
+msgstr "Vertical alignment?"
+
+#: build/site-anciennete/index.js:144 src/site-anciennete/edit-inspecteur.js:29
+msgid "Année de lancement du site"
+msgstr "Site launch year"
+
+#: build/search/index.js:484 src/search/edit-inspecteur.js:151
+msgid "Appliquer un filtre"
+msgstr "Apply a filter"
+
+#: build/icon/index.js:216 src/icon/edit-inspecteur.js:77
+msgid "Arrondie autour de l'icone %"
+msgstr "Rounded around the icon %"
+
+#: build/icon/index.js:215 src/icon/edit-inspecteur.js:76
+msgid "Arrondie Bordure"
+msgstr "Rounded border"
+
+#: build/table/index.js:291 src/table/edit-inspecteur.js:69
+msgid "Arrondir les bordures du tableau"
+msgstr "Round the table corners"
+
+#: build/post/index.js:870 src/post/index.js:11
+msgid "Article"
+msgstr "Article"
+
+#: build/search/index.js:599 src/search/edit-toolbar.js:25
+msgid "Aucun"
+msgstr "None"
+
+#: build/latest-posts/index.js:307 build/post/index.js:406
+#: src/latest-posts/edit-block.js:134 src/post/edit-block.js:133
+msgid "Aucun article trouvé"
+msgstr "No article found"
+
+#: build/latest-posts/index.js:56 build/post/index.js:56
+#: build/post/index.js:166 src/_composants/searchcategories/index.js:26
+#: src/_composants/searchcpt/index.js:26 src/_composants/searchpost/index.js:25
+msgid "Aucun résultat"
+msgstr "No results"
+
+#: src/latest-posts/post.js:88 src/post/post.js:88
+msgid "Auteur"
+msgstr "Author"
+
+#: build/alert/index.js:243 src/alert/edit-toolbar.js:22
+msgid "Avertissement"
+msgstr "Warning"
+
+#: build/address-postale/index.js:148 src/address-postale/edit-inspecteur.js:46
+msgid "Boite Postale"
+msgstr "P.O. Box"
+
+#: build/table/index.js:288 src/table/edit-inspecteur.js:67
+msgid "Bordures arrondies"
+msgstr "Rounded borders"
+
+#: build/burger-btn/index.js:426 src/burger-btn/index.js:11
+msgid "Bouton Burger"
+msgstr "Burger button"
+
+#: build/icon/index.js:257 src/icon/edit-inspecteur.js:98
+msgid "Caché"
+msgstr "Hidden"
+
+#: src/latest-posts/post.js:85 src/post/post.js:85
+msgid "Catégorie"
+msgstr "Category"
+
+#: build/table-cell/index.js:429 src/table-cell/index.js:11
+msgid "Cellule"
+msgstr "Cell"
+
+#: build/formulaire/index.js:158 src/formulaire/edit-inspecteur.js:21
+msgid "Champs Obligatoires"
+msgstr "Required fields"
+
+#: src/formulaire/edit-block.js:21 src/formulaire/save.js:20
+#| msgid "Champs obligatoires "
+msgid "champs obligatoires"
+msgstr "required fields "
+
+#: src/latest-posts/post.js:109 src/post/post.js:109
+msgid "Chargement article..."
+msgstr "Loading article..."
+
+#: build/post/index.js:590 src/post/edit-inspecteur.js:79
+msgid "Chercher un article"
+msgstr "Search for an article"
+
+#: build/latest-posts/index.js:473 build/post/index.js:603
+#: src/latest-posts/edit-inspecteur.js:54 src/post/edit-inspecteur.js:91
+msgid "Chercher un catégorie"
+msgstr "Search for a category"
+
+#: build/search/index.js:440 src/search/edit-inspecteur.js:103
+msgid "Choisir la hauteur du champs (px)"
+msgstr "Choose the field height (px)"
+
+#: build/icon/index.js:174 src/icon/edit-inspecteur.js:33
+msgid "Choisir la taille de l'icône (rem)"
+msgstr "Choose the icon size (rem)"
+
+#: build/icon/index.js:184 src/icon/edit-inspecteur.js:42
+msgid "Choisir la taille de la bordure (rem)"
+msgstr "Choose the border size (rem)"
+
+#: build/icon/index.js:164 src/icon/edit-inspecteur.js:24
+msgid "Choisir la taille du contour (rem)"
+msgstr "Choose the outline size (rem)"
+
+#: build/search/index.js:497 src/search/edit-inspecteur.js:167
+msgid "Choisir le nombre d'éléments à afficher"
+msgstr "Choose the number of items to display"
+
+#: build/post/index.js:573 src/post/edit-inspecteur.js:66
+msgid "Choisir un article ?"
+msgstr "Choose an article?"
+
+#: build/address-postale/index.js:136 src/address-postale/edit-inspecteur.js:36
+msgid "Code Postale"
+msgstr "Postal Code"
+
+#: build/navgrid/index.js:117 src/navgrid/edit-inspecteur.js:23
+msgid "Colonnes"
+msgstr "Columns"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:202
+#: build/card-price-toggle-wrapper-item-child/index.js:241
+#: build/card-price-toggle-wrapper-item-child/index.js:280
+#: build/card-price-toggle-wrapper-item-child/index.js:319
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:47
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:73
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:99
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:125
+msgid "Complément"
+msgstr "Complement"
+
+#: build/alert/index.js:235 src/alert/edit-toolbar.js:14
+msgid "Conseil"
+msgstr "Advice"
+
+#: build/table-row/index.js:126 src/table-row/edit-inspecteur.js:28
+msgid "Corps"
+msgstr "Body"
+
+#: build/search/index.js:452 src/search/edit-inspecteur.js:114
+msgid "Couleur Bouton"
+msgstr "Button color"
+
+#: build/search/index.js:468 src/search/edit-inspecteur.js:132
+msgid "Couleur Bouton (survol)"
+msgstr "Button color (hover)"
+
+#: build/icon/index.js:201 src/icon/edit-inspecteur.js:58
+msgid "Couleur de fond"
+msgstr "Background color"
+
+#: build/table/index.js:330 src/table/edit-inspecteur.js:106
+msgid "Couleur de fond de l'en-tête"
+msgstr "Header background color"
+
+#: build/table/index.js:351 src/table/edit-inspecteur.js:128
+msgid "Couleur de fond du corps"
+msgstr "Body background color"
+
+#: build/table/index.js:372 src/table/edit-inspecteur.js:150
+msgid "Couleur de fond du corps (impair)"
+msgstr "Body background color (odd)"
+
+#: build/table/index.js:393 src/table/edit-inspecteur.js:172
+msgid "Couleur de fond du pied"
+msgstr "Footer background color"
+
+#: build/icon/index.js:210 src/icon/edit-inspecteur.js:68
+msgid "Couleur de la bordure"
+msgstr "Border color"
+
+#: build/card-price-toggle-wrapper-item/index.js:164
+#: build/card-price-toggle-wrapper-item/index.js:170
+#: src/card-price-toggle-wrapper-item/edit-inspecteur.js:23
+#: src/card-price-toggle-wrapper-item/edit-inspecteur.js:28
+msgid "Couleur de la card"
+msgstr "Card color"
+
+#: build/table/index.js:309 src/table/edit-inspecteur.js:84
+msgid "Couleur des bordures"
+msgstr "Border color"
+
+#: build/table/index.js:321 src/table/edit-inspecteur.js:96
+msgid "Couleur du texte dans l'en-tête"
+msgstr "Header text color"
+
+#: build/table/index.js:342 src/table/edit-inspecteur.js:118
+msgid "Couleur du texte dans le corps"
+msgstr "Body text color"
+
+#: build/table/index.js:363 src/table/edit-inspecteur.js:140
+msgid "Couleur du texte dans le corps (impair)"
+msgstr "Body text color (odd)"
+
+#: build/table/index.js:384 src/table/edit-inspecteur.js:162
+msgid "Couleur du texte du pied"
+msgstr "Footer text color"
+
+#: build/card-price-toggle-wrapper-item/index.js:162 build/icon/index.js:193
+#: build/search/index.js:449
+#: src/card-price-toggle-wrapper-item/edit-inspecteur.js:21
+#: src/icon/edit-inspecteur.js:51 src/search/edit-inspecteur.js:112
+msgid "Couleurs"
+msgstr "Colors"
+
+#: build/icon/index.js:204 build/table/index.js:300 build/table/index.js:303
+#: src/icon/edit-inspecteur.js:63 src/table/edit-inspecteur.js:77
+#: src/table/edit-inspecteur.js:79
+msgid "Couleurs Bordures"
+msgstr "Border colors"
+
+#: build/table/index.js:315 src/table/edit-inspecteur.js:91
+msgid "Couleurs d'en-tête"
+msgstr "Header colors"
+
+#: build/table/index.js:324 src/table/edit-inspecteur.js:101
+msgid "Couleurs de fond de l'en-tête"
+msgstr "Header background colors"
+
+#: build/table/index.js:345 src/table/edit-inspecteur.js:123
+msgid "Couleurs de fond du corps"
+msgstr "Body background colors"
+
+#: build/table/index.js:366 src/table/edit-inspecteur.js:145
+msgid "Couleurs de fond du corps (impair)"
+msgstr "Body background colors (odd)"
+
+#: build/table/index.js:387 src/table/edit-inspecteur.js:167
+msgid "Couleurs de fond du pied"
+msgstr "Footer background colors"
+
+#: build/table/index.js:333 build/table/index.js:336
+#: src/table/edit-inspecteur.js:111 src/table/edit-inspecteur.js:113
+msgid "Couleurs du corps"
+msgstr "Body colors"
+
+#: build/table/index.js:354 build/table/index.js:357
+#: src/table/edit-inspecteur.js:133 src/table/edit-inspecteur.js:135
+msgid "Couleurs du corps (impaire)"
+msgstr "Body colors (odd)"
+
+#: build/table/index.js:375 build/table/index.js:378
+#: src/table/edit-inspecteur.js:155 src/table/edit-inspecteur.js:157
+msgid "Couleurs du pied"
+msgstr "Footer colors"
+
+#: build/table/index.js:312 src/table/edit-inspecteur.js:89
+msgid "Couleurs En-tête"
+msgstr "Header Colors"
+
+#: build/icon/index.js:195 src/icon/edit-inspecteur.js:53
+msgid "Couleurs Fond"
+msgstr "Background colors"
+
+#: build/search/index.js:460 src/search/edit-inspecteur.js:123
+msgid "Couleurs Fond Bouton"
+msgstr "Button background colors"
+
+#: build/search/index.js:476 src/search/edit-inspecteur.js:141
+msgid "Couleurs Fond Bouton (survol)"
+msgstr "Button background colors (hover)"
+
+#: build/icon/index.js:245 src/icon/edit-inspecteur.js:94
+msgid "Crête"
+msgstr "Ridge"
+
+#: build/alert/index.js:251 src/alert/edit-toolbar.js:30
+msgid "Danger"
+msgstr "Danger"
+
+#: src/latest-posts/post.js:91 src/post/post.js:91
+msgid "Date de publication"
+msgstr "Publication date"
+
+#: build/debug/index.js:501 src/debug/index.js:11
+msgid "Debug"
+msgstr "Debug"
+
+#: build/latest-posts/index.js:750 src/latest-posts/index.js:11
+msgid "Derniers Articles"
+msgstr "Latest articles"
+
+#: build/table/index.js:266 build/table/index.js:279
+#: src/table/edit-inspecteur.js:48 src/table/edit-inspecteur.js:59
+msgid "Design visible sur écran < 600px"
+msgstr "Design visible on screens < 600px"
+
+#: build/icon/index.js:213 src/icon/edit-inspecteur.js:74
+msgid "Divers"
+msgstr "Miscellaneous"
+
+#: build/icon/index.js:239 src/icon/edit-inspecteur.js:92
+msgid "Double"
+msgstr "Double"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:193
+#: build/card-price-toggle-wrapper-item-child/index.js:232
+#: build/card-price-toggle-wrapper-item-child/index.js:271
+#: build/card-price-toggle-wrapper-item-child/index.js:310
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:41
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:67
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:93
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:119
+msgid "Durée"
+msgstr "Duration"
+
+#: build/person/index.js:77 src/person/edit-block.js:22
+msgid "Ecrire le Nom"
+msgstr "Enter the first name"
+
+#: build/person/index.js:68 src/person/edit-block.js:14
+msgid "Ecrire le Prénom"
+msgstr "Enter the last name"
+
+#: build/alert/index.js:146 build/default/index.js:66
+#: src/alert/edit-block.js:12 src/default/edit-block.js:12
+msgid "Ecrire un contenu"
+msgstr "Write content"
+
+#: build/navgrid-item/index.js:486 src/navgrid-item/index.js:12
+msgid "Elément de la grille de navigation"
+msgstr "Navigation grid element"
+
+#: build/footer-menu-item/index.js:479 src/footer-menu-item/index.js:12
+msgid "Elément de la navigation de footer"
+msgstr "Footer navigation element"
+
+#: build/mailto/index.js:188 build/mailto/index.js:551 build/vcard/index.js:221
+#: src/mailto/edit-inspecteur.js:24 src/mailto/index.js:10
+#: src/vcard/edit-inspecteur.js:86
+msgid "Email"
+msgstr "Email"
+
+#: build/mailto/index.js:189 src/mailto/edit-inspecteur.js:25
+msgid "Email du destinataire"
+msgstr "Recipient's email"
+
+#: src/latest-posts/post.js:103 src/post/post.js:103
+msgid "En savoir plus"
+msgstr "Learn more"
+
+#: build/table-row/index.js:123 src/table-row/edit-inspecteur.js:27
+msgid "En-tête"
+msgstr "Header"
+
+#: build/vcard/index.js:200 src/vcard/edit-inspecteur.js:68
+msgid "entreprise"
+msgstr "company"
+
+#: build/latest-posts/index.js:70 build/post/index.js:70
+#: src/_composants/searchcategories/index.js:37
+msgid "Erreur lors de la récupération des catégories."
+msgstr "Error retrieving categories"
+
+#: build/icon/index.js:251 src/icon/edit-inspecteur.js:96
+msgid "Externe"
+msgstr "Outside"
+
+#: build/search/index.js:596 src/search/edit-toolbar.js:24
+msgid "Extérieur"
+msgstr "External"
+
+#: build/post/index.js:570 src/post/edit-inspecteur.js:64
+msgid "Faite votre choix !"
+msgstr "Make your choice!"
+
+#: build/fax/index.js:510 src/fax/index.js:11
+msgid "Fax"
+msgstr "Fax"
+
+#: build/fax/index.js:138 src/fax/edit-inspecteur.js:23
+msgid "Faxer"
+msgstr "Send a fax"
+
+#: build/breadcrumb/index.js:417 src/breadcrumb/index.js:11
+msgid "File d'ariane"
+msgstr "Breadcrumb"
+
+#: build/post/index.js:595 src/post/edit-inspecteur.js:85
+msgid "Filtre catégorie"
+msgstr "Category filter"
+
+#: build/footer-base/index.js:483 src/footer-base/index.js:11
+msgid "Footer Base"
+msgstr "Base Footer"
+
+#: build/footer-menu/index.js:479 src/footer-menu/index.js:11
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: build/footer-menu-item/index.js:478 src/footer-menu-item/index.js:11
+msgid "Footer Menu Item"
+msgstr "Footer menu item"
+
+#: build/formulaire/index.js:561 src/formulaire/index.js:11
+msgid "Formulaire"
+msgstr "Form"
+
+#: build/navgrid/index.js:463 src/navgrid/index.js:11
+msgid "Grille de Navigation"
+msgstr "Navigation grid"
+
+#: build/navgrid-item/index.js:485 src/navgrid-item/index.js:11
+msgid "Grille de Navigation Item"
+msgstr "Navigation grid item"
+
+#: build/search/index.js:439 src/search/edit-inspecteur.js:102
+msgid "Hauteur (px)"
+msgstr "Height (px)"
+
+#: build/header-1-ligne/index.js:445 src/header-1-ligne/index.js:11
+msgid "Header 1 Ligne"
+msgstr "Header 1 Line"
+
+#: build/header-2-lignes/index.js:437 src/header-2-lignes/index.js:11
+msgid "Header 2 Lignes"
+msgstr "Header 2 Lines"
+
+#. Author URI of the plugin
+#| msgid "https://ocade-systeme.fr"
+msgid "https://www.ocade-systeme.fr"
+msgstr "https://www.ocade-systeme.fr"
+
+#: build/icon/index.js:760 src/icon/index.js:11
+msgid "Icône"
+msgstr "Icon"
+
+#: build/address-postale/index.js:128 build/fax/index.js:136
+#: build/footer-menu-item/index.js:124 build/mailto/index.js:186
+#: build/navgrid-item/index.js:129 build/navgrid/index.js:115
+#: build/site-anciennete/index.js:136 build/tel/index.js:129
+#: src/address-postale/edit-inspecteur.js:29 src/fax/edit-inspecteur.js:21
+#: src/footer-menu-item/edit-inspecteur.js:22 src/mailto/edit-inspecteur.js:22
+#: src/navgrid-item/edit-inspecteur.js:22 src/navgrid/edit-inspecteur.js:21
+#: src/site-anciennete/edit-inspecteur.js:22 src/tel/edit-inspecteur.js:21
+msgid "Informations"
+msgstr "Information"
+
+#: build/debug/index.js:139 src/debug/edit-inspecteur.js:23
+msgid "Informations Blocks"
+msgstr "Block information"
+
+#: build/latest-posts/index.js:465 src/latest-posts/edit-inspecteur.js:49
+msgid "Informations Générales"
+msgstr "General information"
+
+#: build/vcard/index.js:145 src/vcard/edit-inspecteur.js:22
+msgid "Informations Vcard"
+msgstr "Vcard Information"
+
+#: build/header-2-lignes/index.js:438 src/header-2-lignes/index.js:12
+msgid "Insérer le header sur 2 lignes (template)"
+msgstr "Insert the header on 2 lines (template)"
+
+#: build/header-1-ligne/index.js:446 src/header-1-ligne/index.js:12
+msgid "Insérer un header sur 1 ligne (template)"
+msgstr "Insert a header on 1 line (template)"
+
+#: build/table/index.js:753 src/table/index.js:12
+msgid "Insérer un tableau dans votre page."
+msgstr "Insert a table on your page."
+
+#: build/footer-base/index.js:484 src/footer-base/index.js:12
+msgid "Insérer une footer de base avec des colonnes"
+msgstr "Insert a basic footer with columns."
+
+#: build/icon/index.js:761 src/icon/index.js:12
+msgid "Insérer une icône "
+msgstr "Insert an icon"
+
+#: build/icon/index.js:248 src/icon/edit-inspecteur.js:95
+msgid "Interne"
+msgstr "Inside"
+
+#: build/search/index.js:593 src/search/edit-toolbar.js:23
+msgid "Intérieur"
+msgstr "Internal"
+
+#: build/table/index.js:256 src/table/edit-inspecteur.js:38
+msgid "La première ligne est glissante dans le tableau"
+msgstr "The first row is sticky in the table."
+
+#: build/table/index.js:256 src/table/edit-inspecteur.js:39
+msgid "La première ligne n'est pas glissante dans le tableau"
+msgstr "The first row is not sticky in the table."
+
+#: build/search/index.js:272 src/search/edit-block.js:43
+msgid "Lancer une recherche…"
+msgstr "Start a search…"
+
+#: build/table/index.js:278 src/table/edit-inspecteur.js:58
+msgid "Largeur de la première colonne"
+msgstr "Width of the first column"
+
+#: build/table/index.js:265 src/table/edit-inspecteur.js:47
+msgid "Largeur minimal des colonnes"
+msgstr "Minimum column width"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:172
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:27
+msgid "Lien avec switcher 1"
+msgstr "Link with switcher 1"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:211
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:53
+msgid "Lien avec switcher 2"
+msgstr "Link with switcher 2"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:250
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:79
+msgid "Lien avec switcher 3"
+msgstr "Link with switcher 3"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:289
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:105
+msgid "Lien avec switcher 4"
+msgstr "Link with switcher 4"
+
+#: build/table-row/index.js:463 src/table-row/index.js:11
+msgid "Ligne"
+msgstr "Line"
+
+#: build/search/index.js:411 src/search/edit-inspecteur.js:88
+msgid "Longueur"
+msgstr "Length"
+
+#: build/latest-posts/index.js:499 build/post/index.js:625
+#: src/latest-posts/edit-inspecteur.js:76 src/post/edit-inspecteur.js:109
+msgid "Longueur Image (width)"
+msgstr "Image length (width)"
+
+#: build/mailto/index.js:190 src/mailto/edit-inspecteur.js:26
+msgid "mailto:mon-adresse@domaine.tld"
+msgstr "mailto:my-address@example.com"
+
+#: build/address-postale/index.js:155 src/address-postale/edit-inspecteur.js:52
+msgid "Message au survol"
+msgstr "Message on hover"
+
+#: build/formulaire/index.js:167 build/formulaire/index.js:170
+#: build/latest-posts/index.js:519 build/post/index.js:645
+#: src/formulaire/edit-inspecteur.js:28 src/formulaire/edit-inspecteur.js:30
+#: src/latest-posts/edit-inspecteur.js:96 src/post/edit-inspecteur.js:129
+msgid "Niveau de titre"
+msgstr "Heading level"
+
+#: build/vcard/index.js:186 src/vcard/edit-inspecteur.js:56
+msgid "Nom"
+msgstr "Name"
+
+#: build/latest-posts/index.js:481 src/latest-posts/edit-inspecteur.js:59
+msgid "Nombre d'article(s) à afficher"
+msgstr "Number of article(s) to display"
+
+#: build/search/index.js:496 src/search/edit-inspecteur.js:166
+msgid "Nombre d'éléments"
+msgstr "Number of items"
+
+#: build/navgrid/index.js:118 src/navgrid/edit-inspecteur.js:24
+msgid "Nombre de colonnes à afficher"
+msgstr "Number of columns to display"
+
+#: build/latest-posts/index.js:480 src/latest-posts/edit-inspecteur.js:58
+msgid "Nombre Par Page"
+msgstr "Number Per Page"
+
+#: build/formulaire/index.js:101 src/formulaire/edit-block.js:34
+msgid "Note de pied de page"
+msgstr "Footer note"
+
+#: build/vcard/index.js:242 src/vcard/edit-inspecteur.js:104
+msgid "Notes"
+msgstr "Notes"
+
+#: build/icon/index.js:254 src/icon/edit-inspecteur.js:97
+msgid "Nule"
+msgstr "Null"
+
+#: build/fax/index.js:139 src/fax/edit-inspecteur.js:24
+msgid "Numéro de fax du destinataire"
+msgstr "Recipient's fax number"
+
+#: build/tel/index.js:132 src/tel/edit-inspecteur.js:24
+msgid "Numéro de téléphone du destinataire"
+msgstr "Recipient's phone number"
+
+#: build/vcard/index.js:214 src/vcard/edit-inspecteur.js:80
+msgid "Numéro Fax"
+msgstr "Fax Number"
+
+#: build/vcard/index.js:207 src/vcard/edit-inspecteur.js:74
+msgid "Numéro Téléphone"
+msgstr "Phone Number"
+
+#. Plugin Name of the plugin
+msgid "Ocade Blocks"
+msgstr "Ocade Blocks"
+
+#: build/search/index.js:525 src/search/edit-inspecteur.js:186
+msgid "Ordre"
+msgstr "Order"
+
+#: build/latest-posts/index.js:597 build/post/index.js:717
+#: src/latest-posts/edit-inspecteur.js:157 src/post/edit-inspecteur.js:185
+msgid "Ordre de l'auteur"
+msgstr "Author's order"
+
+#: build/latest-posts/index.js:624 build/post/index.js:744
+#: src/latest-posts/edit-inspecteur.js:187 src/post/edit-inspecteur.js:215
+msgid "Ordre de l'extrait"
+msgstr "Excerpt order"
+
+#: build/latest-posts/index.js:579 build/post/index.js:699
+#: src/latest-posts/edit-inspecteur.js:137 src/post/edit-inspecteur.js:165
+msgid "Ordre de l'image"
+msgstr "Image order"
+
+#: build/latest-posts/index.js:615 build/post/index.js:735
+#: src/latest-posts/edit-inspecteur.js:177 src/post/edit-inspecteur.js:205
+msgid "Ordre de la catégorie"
+msgstr "Category order"
+
+#: build/latest-posts/index.js:606 build/post/index.js:726
+#: src/latest-posts/edit-inspecteur.js:167 src/post/edit-inspecteur.js:195
+msgid "Ordre de la date"
+msgstr "Date order"
+
+#: build/latest-posts/index.js:633 build/post/index.js:753
+#: src/latest-posts/edit-inspecteur.js:198 src/post/edit-inspecteur.js:226
+msgid "Ordre du bouton lire la suite"
+msgstr "Read more button order"
+
+#: build/latest-posts/index.js:588 build/post/index.js:708
+#: src/latest-posts/edit-inspecteur.js:147 src/post/edit-inspecteur.js:175
+msgid "Ordre du titre"
+msgstr "Title order"
+
+#: build/burger-btn/index.js:51 build/burger-btn/index.js:203
+#: src/burger-btn/edit-block.js:7 src/burger-btn/save.js:10
+msgid "Ouvrir le menu"
+msgstr "Open the menu"
+
+#: build/card-price-toggle/index.js:128 build/remontees-categories/index.js:124
+#: build/search-results/index.js:105
+#: src/card-price-toggle/edit-inspecteur.js:21
+#: src/remontees-categories/edit-inspecteur.js:20
+#: src/search-results/edit-inspecteur.js:23
+msgid "Paramètres"
+msgstr "Settings"
+
+#: build/latest-posts/index.js:490 build/post/index.js:610
+#: src/latest-posts/edit-inspecteur.js:67 src/post/edit-inspecteur.js:95
+msgid "Personnalisation Article"
+msgstr "Article customization"
+
+#: build/person/index.js:470 src/person/index.js:11
+msgid "Personne"
+msgstr "Person"
+
+#: build/table-row/index.js:129 src/table-row/edit-inspecteur.js:29
+msgid "Pied"
+msgstr "Footer"
+
+#. Description of the plugin
+msgid "Plugin by Ocade ~ Création de blocks Gutenberg Wordpress"
+msgstr "Plugin by Ocade ~ Created Gutenberg Blocks Wordpress"
+
+#: build/icon/index.js:236 src/icon/edit-inspecteur.js:91
+msgid "Point"
+msgstr "Point"
+
+#: build/icon/index.js:233 src/icon/edit-inspecteur.js:90
+msgid "Pointillé"
+msgstr "Dotted"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:175
+#: build/card-price-toggle-wrapper-item-child/index.js:214
+#: build/card-price-toggle-wrapper-item-child/index.js:253
+#: build/card-price-toggle-wrapper-item-child/index.js:292
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:29
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:55
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:81
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:107
+msgid "Prix"
+msgstr "Price"
+
+#: build/latest-posts/index.js:506 build/post/index.js:632
+#: src/latest-posts/edit-inspecteur.js:82 src/post/edit-inspecteur.js:115
+msgid "Proportion Image"
+msgstr "Image proportion"
+
+#: build/vcard/index.js:179 src/vcard/edit-inspecteur.js:50
+msgid "Prénom"
+msgstr "First name"
+
+#: build/search-results/index.js:437 src/search-results/index.js:12
+msgid "Présenter les résultats de la recherche"
+msgstr "Present the search results"
+
+#: build/icon/index.js:242 src/icon/edit-inspecteur.js:93
+msgid "Rainure"
+msgstr "Groove"
+
+#: build/search/index.js:987 src/search/index.js:11
+msgid "Recherche"
+msgstr "Search"
+
+#: build/latest-posts/index.js:48 build/post/index.js:48
+#: build/post/index.js:159 src/_composants/searchcategories/index.js:19
+#: src/_composants/searchcpt/index.js:18 src/_composants/searchpost/index.js:19
+msgid "Recherche en cours..."
+msgstr "Searching..."
+
+#: build/latest-posts/index.js:300 src/latest-posts/edit-block.js:127
+msgid "Recherche les articles..."
+msgstr "Searching for articles..."
+
+#: build/search/index.js:263 build/search/index.js:287
+#: src/search/edit-block.js:32 src/search/edit-block.js:61
+msgid "Rechercher"
+msgstr "Search"
+
+#: build/remontees-categories/index.js:468 src/remontees-categories/index.js:11
+msgid "Remontées Catégories"
+msgstr "Category pull-ups"
+
+#: build/vcard/index.js:243 src/vcard/edit-inspecteur.js:105
+msgid "Renseigner des notes pour la fiche contact"
+msgstr "Add notes for the contact record"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:194
+#: build/card-price-toggle-wrapper-item-child/index.js:233
+#: build/card-price-toggle-wrapper-item-child/index.js:272
+#: build/card-price-toggle-wrapper-item-child/index.js:311
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:42
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:68
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:94
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:120
+msgid "Renseigner la durée affichée si on clique sur le premier bouton"
+msgstr "Provide the displayed duration when clicking the first button"
+
+#: build/vcard/index.js:201 src/vcard/edit-inspecteur.js:69
+msgid "Renseigner le nom de votre entreprise pour la fiche contact"
+msgstr "Provide the name of your company for the contact record"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:176
+#: build/card-price-toggle-wrapper-item-child/index.js:215
+#: build/card-price-toggle-wrapper-item-child/index.js:254
+#: build/card-price-toggle-wrapper-item-child/index.js:293
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:30
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:56
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:82
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:108
+msgid "Renseigner le prix affiché si on clique sur le premier bouton"
+msgstr "Provide the displayed price when clicking the first button"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:185
+#: build/card-price-toggle-wrapper-item-child/index.js:224
+#: build/card-price-toggle-wrapper-item-child/index.js:263
+#: build/card-price-toggle-wrapper-item-child/index.js:302
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:36
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:62
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:88
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:114
+msgid "Renseigner le séparateur entre le prix et la durée"
+msgstr "Provide the separator between the price and the duration"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:203
+#: build/card-price-toggle-wrapper-item-child/index.js:242
+#: build/card-price-toggle-wrapper-item-child/index.js:281
+#: build/card-price-toggle-wrapper-item-child/index.js:320
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:48
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:74
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:100
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:126
+msgid ""
+"Renseigner un complément d'information à affichée si on clique sur le "
+"premier bouton"
+msgstr ""
+"Provide additional information to be displayed when clicking the first button"
+
+#: build/vcard/index.js:187 src/vcard/edit-inspecteur.js:57
+msgid "Renseigner un nom pour la fiche contact"
+msgstr "Provide a name for the contact record"
+
+#: build/vcard/index.js:215 src/vcard/edit-inspecteur.js:81
+msgid "Renseigner un numéro de fax pour la fiche contact (ex: 0511678328)"
+msgstr "Provide a fax number for the contact record (e.g., 0511678328)"
+
+#: build/vcard/index.js:208 src/vcard/edit-inspecteur.js:75
+msgid ""
+"Renseigner un numéro de téléphone pour la fiche contact (ex: 0611678328)"
+msgstr "Provide a phone number for the contact record (e.g., 0611678328)"
+
+#: build/vcard/index.js:180 src/vcard/edit-inspecteur.js:51
+msgid "Renseigner un prénom pour la fiche contact"
+msgstr "Provide a first name for the contact record"
+
+#: build/vcard/index.js:194 src/vcard/edit-inspecteur.js:63
+msgid "Renseigner un slogan pour la fiche contact"
+msgstr "Provide a slogan for the contact record"
+
+#: build/vcard/index.js:222 src/vcard/edit-inspecteur.js:87
+msgid ""
+"Renseigner une adresse email pour la fiche contact (ex: postmaster@ocade-"
+"systeme.fr)"
+msgstr ""
+"Provide an email address for the contact record (e.g., postmaster@example."
+"com)"
+
+#: build/vcard/index.js:236 src/vcard/edit-inspecteur.js:99
+msgid ""
+"Renseigner une adresse postale pour la fiche contact  (ex: 15 rue des "
+"bananes 86000 Poitiers)"
+msgstr ""
+"Provide a postal address for the contact record (e.g., 15 Banana Street, "
+"86000 Poitiers)"
+
+#: build/vcard/index.js:229 src/vcard/edit-inspecteur.js:93
+msgid ""
+"Renseigner une url de votre site web pour la fiche contact  (ex: https://web."
+"ocade-systeme.fr)"
+msgstr ""
+"Provide a website URL for the contact record (e.g., https://web.example.com)"
+
+#: build/address-postale/index.js:130 src/address-postale/edit-inspecteur.js:31
+msgid "Rue"
+msgstr "Street"
+
+#: build/address-postale/index.js:120 build/address/index.js:105
+#: build/alert/index.js:191 build/breadcrumb/index.js:86
+#: build/burger-btn/index.js:90
+#: build/card-price-toggle-wrapper-item-child/index.js:164
+#: build/card-price-toggle-wrapper-item/index.js:154
+#: build/card-price-toggle-wrapper/index.js:93
+#: build/card-price-toggle/index.js:120 build/debug/index.js:131
+#: build/default/index.js:111 build/fax/index.js:128
+#: build/footer-base/index.js:152 build/footer-menu-item/index.js:116
+#: build/footer-menu/index.js:148 build/formulaire/index.js:150
+#: build/header-1-ligne/index.js:114 build/header-2-lignes/index.js:106
+#: build/icon/index.js:153 build/latest-posts/index.js:457
+#: build/mailto/index.js:178 build/navgrid-item/index.js:121
+#: build/navgrid/index.js:107 build/person/index.js:118 build/post/index.js:562
+#: build/remontees-categories/index.js:116 build/search-results/index.js:97
+#: build/search/index.js:375 build/site-anciennete/index.js:128
+#: build/switcher-flag/index.js:95 build/table-cell/index.js:98
+#: build/table-row/index.js:106 build/table/index.js:245 build/tel/index.js:121
+#: build/vcard/index.js:137 src/address-postale/edit-inspecteur.js:21
+#: src/address/edit-inspecteur.js:11 src/alert/edit-inspecteur.js:11
+#: src/breadcrumb/edit-inspecteur.js:11 src/burger-btn/edit-inspecteur.js:11
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:19
+#: src/card-price-toggle-wrapper-item/edit-inspecteur.js:13
+#: src/card-price-toggle-wrapper/edit-inspecteur.js:12
+#: src/card-price-toggle/edit-inspecteur.js:13 src/debug/edit-inspecteur.js:15
+#: src/default/edit-inspecteur.js:11 src/fax/edit-inspecteur.js:13
+#: src/footer-base/edit-inspecteur.js:13
+#: src/footer-menu-item/edit-inspecteur.js:14
+#: src/footer-menu/edit-inspecteur.js:12 src/formulaire/edit-inspecteur.js:13
+#: src/header-1-ligne/edit-inspecteur.js:13
+#: src/header-2-lignes/edit-inspecteur.js:13 src/icon/edit-inspecteur.js:13
+#: src/latest-posts/edit-inspecteur.js:41 src/mailto/edit-inspecteur.js:14
+#: src/navgrid-item/edit-inspecteur.js:14 src/navgrid/edit-inspecteur.js:13
+#: src/person/edit-inspecteur.js:11 src/post/edit-inspecteur.js:56
+#: src/remontees-categories/edit-inspecteur.js:12
+#: src/search-results/edit-inspecteur.js:15 src/search/edit-inspecteur.js:60
+#: src/site-anciennete/edit-inspecteur.js:14
+#: src/switcher-flag/edit-inspecteur.js:12 src/table-cell/edit-inspecteur.js:13
+#: src/table-row/edit-inspecteur.js:13 src/table/edit-inspecteur.js:27
+#: src/tel/edit-inspecteur.js:13 src/vcard/edit-inspecteur.js:14
+msgid "Réinitialisation"
+msgstr "Reset"
+
+#: build/search-results/index.js:436 src/search-results/index.js:11
+msgid "Résultats de Recherche"
+msgstr "Search results"
+
+#: build/search-results/index.js:108 src/search-results/edit-inspecteur.js:25
+msgid "Résultats en ligne ?"
+msgstr "Results inline?"
+
+#: build/card-price-toggle/index.js:133 build/card-price-toggle/index.js:142
+#: build/card-price-toggle/index.js:151 build/card-price-toggle/index.js:160
+#: src/card-price-toggle/edit-inspecteur.js:25
+#: src/card-price-toggle/edit-inspecteur.js:31
+#: src/card-price-toggle/edit-inspecteur.js:37
+#: src/card-price-toggle/edit-inspecteur.js:43
+msgid "Si vide aucun bouton sera crée."
+msgstr "If empty, no button will be created."
+
+#: build/site-anciennete/index.js:479 src/site-anciennete/index.js:11
+msgid "Site Ancienneté"
+msgstr "Site seniority"
+
+#: build/vcard/index.js:193 src/vcard/edit-inspecteur.js:62
+msgid "Slogan"
+msgstr "Slogan"
+
+#: build/icon/index.js:230 src/icon/edit-inspecteur.js:89
+msgid "Solide"
+msgstr "Solid"
+
+#: build/table/index.js:253 src/table/edit-inspecteur.js:35
+msgid "Sticky Menu"
+msgstr "Sticky menu"
+
+#: build/icon/index.js:224 src/icon/edit-inspecteur.js:85
+msgid "Style de la bordure"
+msgstr "Border style"
+
+#: build/card-price-toggle/index.js:131
+#: src/card-price-toggle/edit-inspecteur.js:23
+msgid "Switcher 1"
+msgstr "Switcher 1"
+
+#: build/card-price-toggle/index.js:140
+#: src/card-price-toggle/edit-inspecteur.js:29
+msgid "Switcher 2"
+msgstr "Switcher 2"
+
+#: build/card-price-toggle/index.js:149
+#: src/card-price-toggle/edit-inspecteur.js:35
+msgid "Switcher 3"
+msgstr "Switcher 3"
+
+#: build/card-price-toggle/index.js:158
+#: src/card-price-toggle/edit-inspecteur.js:41
+msgid "Switcher 4"
+msgstr "Switcher 4"
+
+#: build/switcher-flag/index.js:428 src/switcher-flag/index.js:11
+msgid "Switcher Flag (sur mobile)"
+msgstr "Switcher flag (on mobile)"
+
+#: build/formulaire/index.js:161 src/formulaire/edit-inspecteur.js:23
+msgid "Symbole"
+msgstr "Symbol"
+
+#: build/vcard/index.js:177 src/vcard/edit-inspecteur.js:44
+msgid "Sélectionner une image"
+msgstr "Select an image"
+
+#: build/icon/index.js:101 src/icon/edit-block.js:47
+msgid "Sélectionnez une icône"
+msgstr "Select an icon"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:184
+#: build/card-price-toggle-wrapper-item-child/index.js:223
+#: build/card-price-toggle-wrapper-item-child/index.js:262
+#: build/card-price-toggle-wrapper-item-child/index.js:301
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:35
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:61
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:87
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:113
+msgid "Séparateur"
+msgstr "Separator"
+
+#: build/table/index.js:752 src/table/index.js:11
+msgid "Tableau"
+msgstr "Table"
+
+#: build/icon/index.js:163 src/icon/edit-inspecteur.js:23
+msgid "Taille Contour"
+msgstr "Outline size"
+
+#: build/table/index.js:275 src/table/edit-inspecteur.js:56
+msgid "Taille de la 1ère colonne"
+msgstr "Size of the 1st column"
+
+#: build/icon/index.js:183 src/icon/edit-inspecteur.js:41
+msgid "Taille de la bordure"
+msgstr "Border size"
+
+#: build/table/index.js:262 src/table/edit-inspecteur.js:45
+msgid "Taille des colonnes"
+msgstr "Column sizes"
+
+#: build/icon/index.js:173 src/icon/edit-inspecteur.js:32
+msgid "Taille Icône"
+msgstr "Icon size"
+
+#: build/icon/index.js:161 build/search/index.js:408
+#: src/icon/edit-inspecteur.js:21 src/search/edit-inspecteur.js:86
+msgid "Tailles"
+msgstr "Sizes"
+
+#: build/tel/index.js:133 src/tel/edit-inspecteur.js:25
+msgid "tel:+336154587957"
+msgstr "tel:+336154587957"
+
+#: build/default/index.js:456 src/default/index.js:11
+msgid "Terme en français"
+msgstr "Term in French"
+
+#: build/fax/index.js:146 build/footer-menu-item/index.js:134
+#: build/mailto/index.js:197 build/navgrid-item/index.js:139
+#: build/tel/index.js:140 src/fax/edit-inspecteur.js:30
+#: src/footer-menu-item/edit-inspecteur.js:30 src/mailto/edit-inspecteur.js:32
+#: src/navgrid-item/edit-inspecteur.js:30 src/tel/edit-inspecteur.js:31
+msgid "Texte affiché au survol"
+msgstr "Text displayed on hover"
+
+#: build/site-anciennete/index.js:150 src/site-anciennete/edit-inspecteur.js:34
+msgid "Texte après la date"
+msgstr "Text after the date"
+
+#: build/site-anciennete/index.js:138 src/site-anciennete/edit-inspecteur.js:24
+msgid "Texte avant la date"
+msgstr "Text before the date"
+
+#: build/latest-posts/index.js:642 build/post/index.js:762
+#: src/latest-posts/edit-inspecteur.js:206 src/post/edit-inspecteur.js:234
+msgid "Texte du bouton lire la suite"
+msgstr "Read more button text"
+
+#: build/fax/index.js:82 src/fax/edit-block.js:18
+msgid "Texte du lien fax"
+msgstr "Fax link text"
+
+#: build/mailto/index.js:132 src/mailto/edit-block.js:18
+msgid "Texte du lien mailto"
+msgstr "Mailto link text"
+
+#: build/tel/index.js:75 src/tel/edit-block.js:18
+msgid "Texte du lien tel"
+msgstr "Tel link text"
+
+#: build/address-postale/index.js:154 build/fax/index.js:145
+#: build/footer-menu-item/index.js:133 build/mailto/index.js:196
+#: build/navgrid-item/index.js:138 build/tel/index.js:139
+#: src/address-postale/edit-inspecteur.js:51 src/fax/edit-inspecteur.js:29
+#: src/footer-menu-item/edit-inspecteur.js:29 src/mailto/edit-inspecteur.js:31
+#: src/navgrid-item/edit-inspecteur.js:29 src/tel/edit-inspecteur.js:30
+msgid "Titre"
+msgstr "Title"
+
+#: build/formulaire/index.js:72 src/formulaire/edit-block.js:16
+msgid "Titre du formulaire"
+msgstr "Form title"
+
+#: build/card-price-toggle/index.js:514 src/card-price-toggle/index.js:11
+msgid "Toggle Card Price"
+msgstr "Toggle Card Price"
+
+#: build/card-price-toggle-wrapper/index.js:424
+#: src/card-price-toggle-wrapper/index.js:11
+msgid "Toggle Card Price Wrapper"
+msgstr "Toggle Card Price Wrapper"
+
+#: build/card-price-toggle-wrapper-item/index.js:505
+#: src/card-price-toggle-wrapper-item/index.js:11
+msgid "Toggle Card Price Wrapper Item"
+msgstr "Toggle Card Price Wrapper Item"
+
+#: build/card-price-toggle-wrapper-item-child/index.js:712
+#: src/card-price-toggle-wrapper-item-child/index.js:11
+msgid "Toggle Card Price Wrapper Item Child"
+msgstr "Toggle Card Price Wrapper Item Child"
+
+#: build/search/index.js:506 src/search/edit-inspecteur.js:175
+msgid "Tri"
+msgstr "Sorting"
+
+#: build/table-row/index.js:114 src/table-row/edit-inspecteur.js:21
+msgid "Type de la ligne"
+msgstr "Line type"
+
+#: build/table-row/index.js:117 src/table-row/edit-inspecteur.js:23
+msgid "Type de ligne"
+msgstr "Line type"
+
+#: build/tel/index.js:131 build/tel/index.js:494 src/tel/edit-inspecteur.js:23
+#: src/tel/index.js:11
+msgid "Téléphone"
+msgstr "Phone"
+
+#: build/footer-menu-item/index.js:126 build/navgrid-item/index.js:131
+#: src/footer-menu-item/edit-inspecteur.js:24
+#: src/navgrid-item/edit-inspecteur.js:24
+msgid "URL"
+msgstr "URL"
+
+#: build/search/index.js:399 build/search/index.js:402
+#: src/search/edit-inspecteur.js:79 src/search/edit-inspecteur.js:81
+msgid "Url Page Résultats"
+msgstr "Results Page URL"
+
+#: build/vcard/index.js:228 src/vcard/edit-inspecteur.js:92
+msgid "Url Site Web"
+msgstr "Website URL"
+
+#. Author of the plugin
+msgid "Valentin Charrier"
+msgstr "Valentin Charrier"
+
+#: build/search/index.js:386 src/search/edit-inspecteur.js:70
+msgid "Variation"
+msgstr "Variation"
+
+#: build/search/index.js:383 src/search/edit-inspecteur.js:68
+msgid "Variations"
+msgstr "Variations"
+
+#: build/vcard/index.js:551 src/vcard/index.js:11
+msgid "Vcard"
+msgstr "Vcard"
+
+#: build/address-postale/index.js:142 src/address-postale/edit-inspecteur.js:41
+msgid "Ville"
+msgstr ""
+
+#: build/latest-posts/index.js:549 build/post/index.js:675
+#: src/latest-posts/edit-inspecteur.js:111 src/post/edit-inspecteur.js:144
+msgid "Voir l'auteur ?"
+msgstr "See the author?"
+
+#: build/latest-posts/index.js:567 build/post/index.js:687
+#: src/latest-posts/edit-inspecteur.js:126 src/post/edit-inspecteur.js:154
+msgid "Voir l'extrait ?"
+msgstr "See the excerpt?"
+
+#: build/latest-posts/index.js:493 build/post/index.js:619
+#: src/latest-posts/edit-inspecteur.js:69 src/post/edit-inspecteur.js:102
+msgid "Voir l'image ?"
+msgstr "See the image?"
+
+#: build/latest-posts/index.js:561 src/latest-posts/edit-inspecteur.js:121
+msgid "Voir la catégorie ?"
+msgstr "See the category?"
+
+#: build/latest-posts/index.js:555 build/post/index.js:681
+#: src/latest-posts/edit-inspecteur.js:116 src/post/edit-inspecteur.js:149
+msgid "Voir la date ?"
+msgstr "See the date?"
+
+#: build/latest-posts/index.js:573 build/post/index.js:693
+#: src/latest-posts/edit-inspecteur.js:131 src/post/edit-inspecteur.js:159
+msgid "Voir le bouton ?"
+msgstr ""
+
+#: build/latest-posts/index.js:513 build/post/index.js:639
+#: src/latest-posts/edit-inspecteur.js:90 src/post/edit-inspecteur.js:123
+msgid "Voir le titre ?"
+msgstr "See the title?"

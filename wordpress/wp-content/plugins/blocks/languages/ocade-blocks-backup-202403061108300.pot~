@@ -1,0 +1,1267 @@
+# Copyright (C) 2023 Valentin Charrier
+# This file is distributed under the Propriétaire.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocade Blocks 1.0.74\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ocade-blocks\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-02T16:24:18+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: ocade-blocks\n"
+
+#. Plugin Name of the plugin
+msgid "Ocade Blocks"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin by Ocade ~ Création de blocks Gutenberg Wordpress"
+msgstr ""
+
+#. Author of the plugin
+msgid "Valentin Charrier"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.ocade-systeme.fr"
+msgstr ""
+
+#: build/formulaire/index.js:70
+#: src/formulaire/edit-block.js:15
+msgid "Titre du formulaire"
+msgstr ""
+
+#: build/formulaire/index.js:78
+#: build/formulaire/index.js:317
+#: src/formulaire/edit-block.js:20
+#: src/formulaire/save.js:20
+msgid "champs obligatoires"
+msgstr ""
+
+#: build/formulaire/index.js:89
+#: src/formulaire/edit-block.js:33
+msgid "Note de pied de page"
+msgstr ""
+
+#: build/formulaire/index.js:138
+#: src/address-postale/edit-inspecteur.js:21
+#: src/address/edit-inspecteur.js:11
+#: src/alert/edit-inspecteur.js:11
+#: src/breadcrumb/edit-inspecteur.js:11
+#: src/burger-btn/edit-inspecteur.js:11
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:19
+#: src/card-price-toggle-wrapper-item/edit-inspecteur.js:13
+#: src/card-price-toggle-wrapper/edit-inspecteur.js:12
+#: src/card-price-toggle/edit-inspecteur.js:13
+#: src/debug/edit-inspecteur.js:15
+#: src/default/edit-inspecteur.js:11
+#: src/fax/edit-inspecteur.js:13
+#: src/footer-base/edit-inspecteur.js:13
+#: src/footer-menu-item/edit-inspecteur.js:14
+#: src/footer-menu/edit-inspecteur.js:12
+#: src/formulaire/edit-inspecteur.js:13
+#: src/header-1-ligne/edit-inspecteur.js:13
+#: src/header-2-lignes/edit-inspecteur.js:13
+#: src/icon/edit-inspecteur.js:13
+#: src/latest-posts/edit-inspecteur.js:41
+#: src/mailto/edit-inspecteur.js:14
+#: src/navgrid-item/edit-inspecteur.js:14
+#: src/navgrid/edit-inspecteur.js:13
+#: src/person/edit-inspecteur.js:11
+#: src/post/edit-inspecteur.js:56
+#: src/remontees-categories/edit-inspecteur.js:12
+#: src/search-results/edit-inspecteur.js:15
+#: src/search/edit-inspecteur.js:60
+#: src/site-anciennete/edit-inspecteur.js:14
+#: src/switcher-flag/edit-inspecteur.js:12
+#: src/table-cell/edit-inspecteur.js:13
+#: src/table-row/edit-inspecteur.js:13
+#: src/table/edit-inspecteur.js:27
+#: src/tel/edit-inspecteur.js:13
+#: src/vcard/edit-inspecteur.js:14
+msgid "Réinitialisation"
+msgstr ""
+
+#: build/formulaire/index.js:146
+#: src/formulaire/edit-inspecteur.js:21
+msgid "Champs Obligatoires"
+msgstr ""
+
+#: build/formulaire/index.js:149
+#: src/formulaire/edit-inspecteur.js:23
+msgid "Symbole"
+msgstr ""
+
+#: build/formulaire/index.js:155
+#: build/formulaire/index.js:158
+#: src/formulaire/edit-inspecteur.js:28
+#: src/formulaire/edit-inspecteur.js:30
+#: src/latest-posts/edit-inspecteur.js:96
+#: src/post/edit-inspecteur.js:129
+msgid "Niveau de titre"
+msgstr ""
+
+#: build/formulaire/index.js:545
+#: src/formulaire/index.js:11
+msgid "Formulaire"
+msgstr ""
+
+#: build/formulaire/index.js:546
+#: src/formulaire/index.js:12
+msgid "Ajouter un formulaire précédement créé avec le plugins Gravity Forms"
+msgstr ""
+
+#: src/address-postale/edit-inspecteur.js:29
+#: src/fax/edit-inspecteur.js:21
+#: src/footer-menu-item/edit-inspecteur.js:22
+#: src/mailto/edit-inspecteur.js:22
+#: src/navgrid-item/edit-inspecteur.js:22
+#: src/navgrid/edit-inspecteur.js:21
+#: src/site-anciennete/edit-inspecteur.js:22
+#: src/tel/edit-inspecteur.js:21
+msgid "Informations"
+msgstr ""
+
+#: src/address-postale/edit-inspecteur.js:31
+msgid "Rue"
+msgstr ""
+
+#: src/address-postale/edit-inspecteur.js:36
+msgid "Code Postale"
+msgstr ""
+
+#: src/address-postale/edit-inspecteur.js:41
+msgid "Ville"
+msgstr ""
+
+#: src/address-postale/edit-inspecteur.js:46
+msgid "Boite Postale"
+msgstr ""
+
+#: src/address-postale/edit-inspecteur.js:51
+#: src/fax/edit-inspecteur.js:29
+#: src/footer-menu-item/edit-inspecteur.js:29
+#: src/mailto/edit-inspecteur.js:31
+#: src/navgrid-item/edit-inspecteur.js:29
+#: src/tel/edit-inspecteur.js:30
+msgid "Titre"
+msgstr ""
+
+#: src/address-postale/edit-inspecteur.js:52
+msgid "Message au survol"
+msgstr ""
+
+#: src/address-postale/edit-inspecteur.js:57
+#: src/mailto/edit-inspecteur.js:37
+msgid "Afficher l’icône"
+msgstr ""
+
+#: src/address-postale/edit-inspecteur.js:58
+msgid "Afficher l’icône adresse"
+msgstr ""
+
+#: src/address-postale/index.js:10
+#: src/vcard/edit-inspecteur.js:98
+msgid "Adresse Postale"
+msgstr ""
+
+#: src/address-postale/index.js:11
+msgid "Ajouter une adresse postale avec une icone"
+msgstr ""
+
+#: src/address/index.js:10
+msgid "Adresses"
+msgstr ""
+
+#: src/address/index.js:11
+msgid "Ajouter des informations d'addresse (nom société, email, tel...)"
+msgstr ""
+
+#: src/alert/edit-block.js:12
+#: src/default/edit-block.js:12
+msgid "Ecrire un contenu"
+msgstr ""
+
+#: src/alert/edit-toolbar.js:14
+msgid "Conseil"
+msgstr ""
+
+#: src/alert/edit-toolbar.js:22
+msgid "Avertissement"
+msgstr ""
+
+#: src/alert/edit-toolbar.js:30
+msgid "Danger"
+msgstr ""
+
+#: src/alert/index.js:11
+msgid "Alerte"
+msgstr ""
+
+#: src/alert/index.js:12
+msgid "Afficher une alerte avec choix de la couleur."
+msgstr ""
+
+#: src/breadcrumb/index.js:11
+msgid "File d'ariane"
+msgstr ""
+
+#: src/breadcrumb/index.js:12
+msgid "Ajouter un file d'ariane (supprime celui par défault)"
+msgstr ""
+
+#: src/burger-btn/edit-block.js:7
+#: src/burger-btn/save.js:10
+msgid "Ouvrir le menu"
+msgstr ""
+
+#: src/burger-btn/index.js:11
+msgid "Bouton Burger"
+msgstr ""
+
+#: src/burger-btn/index.js:12
+msgid "Ajouter un bouton pour permettre l'ouverture du menu sur petit écran"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:27
+msgid "Lien avec switcher 1"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:29
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:55
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:81
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:107
+msgid "Prix"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:30
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:56
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:82
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:108
+msgid "Renseigner le prix affiché si on clique sur le premier bouton"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:35
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:61
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:87
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:113
+msgid "Séparateur"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:36
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:62
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:88
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:114
+msgid "Renseigner le séparateur entre le prix et la durée"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:41
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:67
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:93
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:119
+msgid "Durée"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:42
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:68
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:94
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:120
+msgid "Renseigner la durée affichée si on clique sur le premier bouton"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:47
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:73
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:99
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:125
+msgid "Complément"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:48
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:74
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:100
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:126
+msgid "Renseigner un complément d'information à affichée si on clique sur le premier bouton"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:53
+msgid "Lien avec switcher 2"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:79
+msgid "Lien avec switcher 3"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/edit-inspecteur.js:105
+msgid "Lien avec switcher 4"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/index.js:11
+msgid "Toggle Card Price Wrapper Item Child"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item-child/index.js:12
+msgid "Ajouter différents prix"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item/edit-inspecteur.js:21
+#: src/icon/edit-inspecteur.js:51
+#: src/search/edit-inspecteur.js:112
+msgid "Couleurs"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item/edit-inspecteur.js:23
+#: src/card-price-toggle-wrapper-item/edit-inspecteur.js:28
+msgid "Couleur de la card"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item/index.js:11
+msgid "Toggle Card Price Wrapper Item"
+msgstr ""
+
+#: src/card-price-toggle-wrapper-item/index.js:12
+msgid "Ajouter des cards de prix"
+msgstr ""
+
+#: src/card-price-toggle-wrapper/index.js:11
+msgid "Toggle Card Price Wrapper"
+msgstr ""
+
+#: src/card-price-toggle-wrapper/index.js:12
+msgid "Ajouter un wrapper pour vos carte de prix"
+msgstr ""
+
+#: src/card-price-toggle/edit-inspecteur.js:21
+#: src/remontees-categories/edit-inspecteur.js:20
+#: src/search-results/edit-inspecteur.js:23
+msgid "Paramètres"
+msgstr ""
+
+#: src/card-price-toggle/edit-inspecteur.js:23
+msgid "Switcher 1"
+msgstr ""
+
+#: src/card-price-toggle/edit-inspecteur.js:25
+#: src/card-price-toggle/edit-inspecteur.js:31
+#: src/card-price-toggle/edit-inspecteur.js:37
+#: src/card-price-toggle/edit-inspecteur.js:43
+msgid "Si vide aucun bouton sera crée."
+msgstr ""
+
+#: src/card-price-toggle/edit-inspecteur.js:29
+msgid "Switcher 2"
+msgstr ""
+
+#: src/card-price-toggle/edit-inspecteur.js:35
+msgid "Switcher 3"
+msgstr ""
+
+#: src/card-price-toggle/edit-inspecteur.js:41
+msgid "Switcher 4"
+msgstr ""
+
+#: src/card-price-toggle/index.js:11
+msgid "Toggle Card Price"
+msgstr ""
+
+#: src/card-price-toggle/index.js:12
+msgid "Ajouter un bouton toggle dans les cards-price"
+msgstr ""
+
+#: src/debug/edit-inspecteur.js:23
+msgid "Informations Blocks"
+msgstr ""
+
+#: src/debug/index.js:11
+msgid "Debug"
+msgstr ""
+
+#: src/debug/index.js:12
+msgid "Afficher des informations sur les blocks"
+msgstr ""
+
+#: src/default/index.js:11
+msgid "Terme en français"
+msgstr ""
+
+#: src/default/index.js:12
+#: src/mailto/index.js:11
+msgid "Ajouter un lien email (mailto)"
+msgstr ""
+
+#: src/fax/edit-block.js:18
+msgid "Texte du lien fax"
+msgstr ""
+
+#: src/fax/edit-inspecteur.js:23
+msgid "Faxer"
+msgstr ""
+
+#: src/fax/edit-inspecteur.js:24
+msgid "Numéro de fax du destinataire"
+msgstr ""
+
+#: src/fax/edit-inspecteur.js:30
+#: src/footer-menu-item/edit-inspecteur.js:30
+#: src/mailto/edit-inspecteur.js:32
+#: src/navgrid-item/edit-inspecteur.js:30
+#: src/tel/edit-inspecteur.js:31
+msgid "Texte affiché au survol"
+msgstr ""
+
+#: src/fax/edit-inspecteur.js:35
+#: src/tel/edit-inspecteur.js:36
+msgid "Afficher l'icône"
+msgstr ""
+
+#: src/fax/edit-inspecteur.js:36
+msgid "Afficher l'icône fax"
+msgstr ""
+
+#: src/fax/index.js:11
+msgid "Fax"
+msgstr ""
+
+#: src/fax/index.js:12
+msgid "Ajouter un lien de fax (fax)"
+msgstr ""
+
+#: src/footer-base/index.js:11
+msgid "Footer Base"
+msgstr ""
+
+#: src/footer-base/index.js:12
+msgid "Insérer une footer de base avec des colonnes"
+msgstr ""
+
+#: src/footer-menu-item/edit-inspecteur.js:24
+#: src/navgrid-item/edit-inspecteur.js:24
+msgid "URL"
+msgstr ""
+
+#: src/footer-menu-item/index.js:11
+msgid "Footer Menu Item"
+msgstr ""
+
+#: src/footer-menu-item/index.js:12
+msgid "Elément de la navigation de footer"
+msgstr ""
+
+#: src/footer-menu/index.js:11
+msgid "Footer Menu"
+msgstr ""
+
+#: src/footer-menu/index.js:12
+msgid "Ajouter une navigation de footer"
+msgstr ""
+
+#: src/header-1-ligne/index.js:11
+msgid "Header 1 Ligne"
+msgstr ""
+
+#: src/header-1-ligne/index.js:12
+msgid "Insérer un header sur 1 ligne (template)"
+msgstr ""
+
+#: src/header-2-lignes/index.js:11
+msgid "Header 2 Lignes"
+msgstr ""
+
+#: src/header-2-lignes/index.js:12
+msgid "Insérer le header sur 2 lignes (template)"
+msgstr ""
+
+#: src/icon/edit-block.js:47
+msgid "Sélectionnez une icône"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:21
+#: src/search/edit-inspecteur.js:86
+msgid "Tailles"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:23
+msgid "Taille Contour"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:24
+msgid "Choisir la taille du contour (rem)"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:32
+msgid "Taille Icône"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:33
+msgid "Choisir la taille de l'icône (rem)"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:41
+msgid "Taille de la bordure"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:42
+msgid "Choisir la taille de la bordure (rem)"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:53
+msgid "Couleurs Fond"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:58
+msgid "Couleur de fond"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:63
+#: src/table/edit-inspecteur.js:77
+#: src/table/edit-inspecteur.js:79
+msgid "Couleurs Bordures"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:68
+msgid "Couleur de la bordure"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:74
+msgid "Divers"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:76
+msgid "Arrondie Bordure"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:77
+msgid "Arrondie autour de l'icone %"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:85
+msgid "Style de la bordure"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:89
+msgid "Solide"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:90
+msgid "Pointillé"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:91
+msgid "Point"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:92
+msgid "Double"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:93
+msgid "Rainure"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:94
+msgid "Crête"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:95
+msgid "Interne"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:96
+msgid "Externe"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:97
+msgid "Nule"
+msgstr ""
+
+#: src/icon/edit-inspecteur.js:98
+msgid "Caché"
+msgstr ""
+
+#: src/icon/index.js:11
+msgid "Icône"
+msgstr ""
+
+#: src/icon/index.js:12
+msgid "Insérer une icône "
+msgstr ""
+
+#: src/latest-posts/edit-block.js:127
+msgid "Recherche les articles..."
+msgstr ""
+
+#: src/latest-posts/edit-block.js:134
+#: src/post/edit-block.js:133
+msgid "Aucun article trouvé"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:49
+msgid "Informations Générales"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:54
+#: src/post/edit-inspecteur.js:91
+msgid "Chercher un catégorie"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:58
+msgid "Nombre Par Page"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:59
+msgid "Nombre d'article(s) à afficher"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:67
+#: src/post/edit-inspecteur.js:95
+msgid "Personnalisation Article"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:69
+#: src/post/edit-inspecteur.js:102
+msgid "Voir l'image ?"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:76
+#: src/post/edit-inspecteur.js:109
+msgid "Longueur Image (width)"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:82
+#: src/post/edit-inspecteur.js:115
+msgid "Proportion Image"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:90
+#: src/post/edit-inspecteur.js:123
+msgid "Voir le titre ?"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:111
+#: src/post/edit-inspecteur.js:144
+msgid "Voir l'auteur ?"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:116
+#: src/post/edit-inspecteur.js:149
+msgid "Voir la date ?"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:121
+msgid "Voir la catégorie ?"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:126
+#: src/post/edit-inspecteur.js:154
+msgid "Voir l'extrait ?"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:131
+#: src/post/edit-inspecteur.js:159
+msgid "Voir le bouton ?"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:137
+#: src/post/edit-inspecteur.js:165
+msgid "Ordre de l'image"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:147
+#: src/post/edit-inspecteur.js:175
+msgid "Ordre du titre"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:157
+#: src/post/edit-inspecteur.js:185
+msgid "Ordre de l'auteur"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:167
+#: src/post/edit-inspecteur.js:195
+msgid "Ordre de la date"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:177
+#: src/post/edit-inspecteur.js:205
+msgid "Ordre de la catégorie"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:187
+#: src/post/edit-inspecteur.js:215
+msgid "Ordre de l'extrait"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:198
+#: src/post/edit-inspecteur.js:226
+msgid "Ordre du bouton lire la suite"
+msgstr ""
+
+#: src/latest-posts/edit-inspecteur.js:206
+#: src/post/edit-inspecteur.js:234
+msgid "Texte du bouton lire la suite"
+msgstr ""
+
+#: src/latest-posts/index.js:11
+msgid "Derniers Articles"
+msgstr ""
+
+#: src/latest-posts/index.js:12
+msgid "Ajouter les derniers articles"
+msgstr ""
+
+#: src/latest-posts/post.js:85
+#: src/post/post.js:85
+msgid "Catégorie"
+msgstr ""
+
+#: src/latest-posts/post.js:88
+#: src/post/post.js:88
+msgid "Auteur"
+msgstr ""
+
+#: src/latest-posts/post.js:91
+#: src/post/post.js:91
+msgid "Date de publication"
+msgstr ""
+
+#: src/latest-posts/post.js:103
+#: src/post/post.js:103
+msgid "En savoir plus"
+msgstr ""
+
+#: src/latest-posts/post.js:109
+#: src/post/post.js:109
+msgid "Chargement article..."
+msgstr ""
+
+#: src/mailto/edit-block.js:18
+msgid "Texte du lien mailto"
+msgstr ""
+
+#: src/mailto/edit-inspecteur.js:24
+#: src/mailto/index.js:10
+#: src/vcard/edit-inspecteur.js:86
+msgid "Email"
+msgstr ""
+
+#: src/mailto/edit-inspecteur.js:25
+msgid "Email du destinataire"
+msgstr ""
+
+#: src/mailto/edit-inspecteur.js:26
+msgid "mailto:mon-adresse@domaine.tld"
+msgstr ""
+
+#: src/mailto/edit-inspecteur.js:38
+msgid "Afficher l’icône mailto"
+msgstr ""
+
+#: src/navgrid-item/index.js:11
+msgid "Grille de Navigation Item"
+msgstr ""
+
+#: src/navgrid-item/index.js:12
+msgid "Elément de la grille de navigation"
+msgstr ""
+
+#: src/navgrid/edit-inspecteur.js:23
+msgid "Colonnes"
+msgstr ""
+
+#: src/navgrid/edit-inspecteur.js:24
+msgid "Nombre de colonnes à afficher"
+msgstr ""
+
+#: src/navgrid/index.js:11
+msgid "Grille de Navigation"
+msgstr ""
+
+#: src/navgrid/index.js:12
+msgid "Ajouter une grille de navigation"
+msgstr ""
+
+#: src/person/edit-block.js:14
+msgid "Ecrire le Prénom"
+msgstr ""
+
+#: src/person/edit-block.js:22
+msgid "Ecrire le Nom"
+msgstr ""
+
+#: src/person/index.js:11
+msgid "Personne"
+msgstr ""
+
+#: src/person/index.js:12
+msgid "Ajouter le nom et prénom d'une personne (optimisé SEO)"
+msgstr ""
+
+#: src/post/edit-inspecteur.js:64
+msgid "Faite votre choix !"
+msgstr ""
+
+#: src/post/edit-inspecteur.js:66
+msgid "Choisir un article ?"
+msgstr ""
+
+#: src/post/edit-inspecteur.js:79
+msgid "Chercher un article"
+msgstr ""
+
+#: src/post/edit-inspecteur.js:85
+msgid "Filtre catégorie"
+msgstr ""
+
+#: src/post/edit-inspecteur.js:97
+msgid "Alignement vertical ?"
+msgstr ""
+
+#: src/post/index.js:11
+msgid "Article"
+msgstr ""
+
+#: src/post/index.js:12
+msgid "Ajouter un article au choix ou simplement le dernier article"
+msgstr ""
+
+#: src/remontees-categories/edit-inspecteur.js:22
+msgid "Afficher le nombre d'articles"
+msgstr ""
+
+#: src/remontees-categories/index.js:11
+msgid "Remontées Catégories"
+msgstr ""
+
+#: src/remontees-categories/index.js:12
+msgid "Ajouter de vos catégories d'articles"
+msgstr ""
+
+#: src/search-results/edit-inspecteur.js:25
+msgid "Résultats en ligne ?"
+msgstr ""
+
+#: src/search-results/edit-inspecteur.js:26
+msgid "Afficher les résultats en ligne"
+msgstr ""
+
+#: src/search-results/edit-inspecteur.js:26
+msgid "Afficher les résultats en card"
+msgstr ""
+
+#: src/search-results/index.js:11
+msgid "Résultats de Recherche"
+msgstr ""
+
+#: src/search-results/index.js:12
+msgid "Présenter les résultats de la recherche"
+msgstr ""
+
+#: src/search/edit-block.js:32
+#: src/search/edit-block.js:61
+msgid "Rechercher"
+msgstr ""
+
+#: src/search/edit-block.js:43
+msgid "Lancer une recherche…"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:68
+msgid "Variations"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:70
+msgid "Variation"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:79
+#: src/search/edit-inspecteur.js:81
+msgid "Url Page Résultats"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:88
+msgid "Longueur"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:102
+msgid "Hauteur (px)"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:103
+msgid "Choisir la hauteur du champs (px)"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:114
+msgid "Couleur Bouton"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:123
+msgid "Couleurs Fond Bouton"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:132
+msgid "Couleur Bouton (survol)"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:141
+msgid "Couleurs Fond Bouton (survol)"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:151
+msgid "Appliquer un filtre"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:166
+msgid "Nombre d'éléments"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:167
+msgid "Choisir le nombre d'éléments à afficher"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:175
+msgid "Tri"
+msgstr ""
+
+#: src/search/edit-inspecteur.js:186
+msgid "Ordre"
+msgstr ""
+
+#: src/search/edit-toolbar.js:23
+msgid "Intérieur"
+msgstr ""
+
+#: src/search/edit-toolbar.js:24
+msgid "Extérieur"
+msgstr ""
+
+#: src/search/edit-toolbar.js:25
+msgid "Aucun"
+msgstr ""
+
+#: src/search/index.js:11
+msgid "Recherche"
+msgstr ""
+
+#: src/search/index.js:12
+msgid "Ajouter un formulaire de recherche"
+msgstr ""
+
+#: src/site-anciennete/edit-inspecteur.js:24
+msgid "Texte avant la date"
+msgstr ""
+
+#: src/site-anciennete/edit-inspecteur.js:29
+msgid "Année de lancement du site"
+msgstr ""
+
+#: src/site-anciennete/edit-inspecteur.js:34
+msgid "Texte après la date"
+msgstr ""
+
+#: src/site-anciennete/index.js:11
+msgid "Site Ancienneté"
+msgstr ""
+
+#: src/site-anciennete/index.js:12
+msgid "Ajouter l'ancienneté de votre site"
+msgstr ""
+
+#: src/switcher-flag/index.js:11
+msgid "Switcher Flag (sur mobile)"
+msgstr ""
+
+#: src/switcher-flag/index.js:12
+msgid "Ajouter un block permettant de switcher de langue dans votre footer (plugin Polylang ou Polylang pro) obligatoire)"
+msgstr ""
+
+#: src/table-cell/index.js:11
+msgid "Cellule"
+msgstr ""
+
+#: src/table-cell/index.js:12
+msgid "Ajouter une cellule à la ligne"
+msgstr ""
+
+#: src/table-row/edit-inspecteur.js:21
+msgid "Type de la ligne"
+msgstr ""
+
+#: src/table-row/edit-inspecteur.js:23
+msgid "Type de ligne"
+msgstr ""
+
+#: src/table-row/edit-inspecteur.js:27
+msgid "En-tête"
+msgstr ""
+
+#: src/table-row/edit-inspecteur.js:28
+msgid "Corps"
+msgstr ""
+
+#: src/table-row/edit-inspecteur.js:29
+msgid "Pied"
+msgstr ""
+
+#: src/table-row/index.js:11
+msgid "Ligne"
+msgstr ""
+
+#: src/table-row/index.js:12
+msgid "Ajouter une ligne à votre tableau."
+msgstr ""
+
+#: src/table/edit-inspecteur.js:35
+msgid "Sticky Menu"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:38
+msgid "La première ligne est glissante dans le tableau"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:39
+msgid "La première ligne n'est pas glissante dans le tableau"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:45
+msgid "Taille des colonnes"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:47
+msgid "Largeur minimal des colonnes"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:48
+#: src/table/edit-inspecteur.js:59
+msgid "Design visible sur écran < 600px"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:56
+msgid "Taille de la 1ère colonne"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:58
+msgid "Largeur de la première colonne"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:67
+msgid "Bordures arrondies"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:69
+msgid "Arrondir les bordures du tableau"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:84
+msgid "Couleur des bordures"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:89
+msgid "Couleurs En-tête"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:91
+msgid "Couleurs d'en-tête"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:96
+msgid "Couleur du texte dans l'en-tête"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:101
+msgid "Couleurs de fond de l'en-tête"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:106
+msgid "Couleur de fond de l'en-tête"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:111
+#: src/table/edit-inspecteur.js:113
+msgid "Couleurs du corps"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:118
+msgid "Couleur du texte dans le corps"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:123
+msgid "Couleurs de fond du corps"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:128
+msgid "Couleur de fond du corps"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:133
+#: src/table/edit-inspecteur.js:135
+msgid "Couleurs du corps (impaire)"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:140
+msgid "Couleur du texte dans le corps (impair)"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:145
+msgid "Couleurs de fond du corps (impair)"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:150
+msgid "Couleur de fond du corps (impair)"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:155
+#: src/table/edit-inspecteur.js:157
+msgid "Couleurs du pied"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:162
+msgid "Couleur du texte du pied"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:167
+msgid "Couleurs de fond du pied"
+msgstr ""
+
+#: src/table/edit-inspecteur.js:172
+msgid "Couleur de fond du pied"
+msgstr ""
+
+#: src/table/index.js:11
+msgid "Tableau"
+msgstr ""
+
+#: src/table/index.js:12
+msgid "Insérer un tableau dans votre page."
+msgstr ""
+
+#: src/tel/edit-block.js:18
+msgid "Texte du lien tel"
+msgstr ""
+
+#: src/tel/edit-inspecteur.js:23
+#: src/tel/index.js:11
+msgid "Téléphone"
+msgstr ""
+
+#: src/tel/edit-inspecteur.js:24
+msgid "Numéro de téléphone du destinataire"
+msgstr ""
+
+#: src/tel/edit-inspecteur.js:25
+msgid "tel:+336154587957"
+msgstr ""
+
+#: src/tel/edit-inspecteur.js:37
+msgid "Afficher l'icône tel"
+msgstr ""
+
+#: src/tel/index.js:12
+msgid "Ajouter un lien téléphone (tel)"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:22
+msgid "Informations Vcard"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:44
+msgid "Sélectionner une image"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:50
+msgid "Prénom"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:51
+msgid "Renseigner un prénom pour la fiche contact"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:56
+msgid "Nom"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:57
+msgid "Renseigner un nom pour la fiche contact"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:62
+msgid "Slogan"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:63
+msgid "Renseigner un slogan pour la fiche contact"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:68
+msgid "entreprise"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:69
+msgid "Renseigner le nom de votre entreprise pour la fiche contact"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:74
+msgid "Numéro Téléphone"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:75
+msgid "Renseigner un numéro de téléphone pour la fiche contact (ex: 0611678328)"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:80
+msgid "Numéro Fax"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:81
+msgid "Renseigner un numéro de fax pour la fiche contact (ex: 0511678328)"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:87
+msgid "Renseigner une adresse email pour la fiche contact (ex: postmaster@ocade-systeme.fr)"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:92
+msgid "Url Site Web"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:93
+msgid "Renseigner une url de votre site web pour la fiche contact  (ex: https://web.ocade-systeme.fr)"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:99
+msgid "Renseigner une adresse postale pour la fiche contact  (ex: 15 rue des bananes 86000 Poitiers)"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:104
+msgid "Notes"
+msgstr ""
+
+#: src/vcard/edit-inspecteur.js:105
+msgid "Renseigner des notes pour la fiche contact"
+msgstr ""
+
+#: src/vcard/index.js:11
+msgid "Vcard"
+msgstr ""
+
+#: src/vcard/index.js:12
+msgid "Ajouter un lien pour proposer l'enregistrement de coordonnées dans le téléphone de vos clients."
+msgstr ""
+
+#: src/_composants/searchcategories/index.js:19
+#: src/_composants/searchcpt/index.js:18
+#: src/_composants/searchpost/index.js:19
+msgid "Recherche en cours..."
+msgstr ""
+
+#: src/_composants/searchcategories/index.js:26
+#: src/_composants/searchcpt/index.js:26
+#: src/_composants/searchpost/index.js:25
+msgid "Aucun résultat"
+msgstr ""
+
+#: src/_composants/searchcategories/index.js:37
+msgid "Erreur lors de la récupération des catégories."
+msgstr ""

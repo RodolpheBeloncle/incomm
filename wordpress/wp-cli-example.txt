@@ -1,0 +1,1 @@
+php wp-cli.phar --path=. search-replace http://beb.docker.localhost https://beb.docker.localhost --dry-run

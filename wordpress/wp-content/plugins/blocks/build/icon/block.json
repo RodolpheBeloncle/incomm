@@ -1,0 +1,83 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "blocks/icon",
+  "version": "1.0.0",
+  "category": "blocks",
+  "keywords": [
+    "icon",
+    "image",
+    "selecteur"
+  ],
+  "textdomain": "blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "supports": {
+    "anchor": true,
+    "align": [
+      "left",
+      "right",
+      "center"
+    ]
+  },
+  "attributes": {
+    "preview": {
+      "type": "boolean",
+      "default": false
+    },
+    "icon": {
+      "type": "string",
+      "default": ""
+    },
+    "color": {
+      "type": "string",
+      "default": ""
+    },
+    "backgroundColor": {
+      "type": "string",
+      "default": "#ffffff"
+    },
+    "borderRadius": {
+      "type": "number",
+      "default": 100
+    },
+    "tag": {
+      "type": "string",
+      "default": "i"
+    },
+    "url": {
+      "type": "string",
+      "default": ""
+    },
+    "tailleContour": {
+      "type": "number",
+      "default": 3
+    },
+    "tailleIcon": {
+      "type": "number",
+      "default": 1.25
+    },
+    "borderColor": {
+      "type": "string",
+      "default": "var(--wp--preset--color--primary-700)"
+    },
+    "borderSize": {
+      "type": "number",
+      "default": 0.3
+    },
+    "borderStyle": {
+      "type": "string",
+      "default": "outset"
+    },
+    "openNewTab": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "example": {
+    "attributes": {
+      "preview": true
+    }
+  }
+}

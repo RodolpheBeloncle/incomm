@@ -1,0 +1,31 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "blocks/breadcrumb",
+	"version": "1.0.0",
+	"category": "blocks",
+  "keywords": ["breadcrumb", "fil d'ariane", "ocade"],
+	"textdomain": "blocks",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+  "supports": {
+    "anchor": true,
+    "className": true
+  },
+  "attributes": {
+    "preview": {
+      "type": "boolean",
+      "default": false
+    },
+    "class": {
+      "type": "string",
+      "default": ""
+    } 
+  },
+  "example": {
+    "attributes": {
+      "preview": true
+    }
+  }
+}

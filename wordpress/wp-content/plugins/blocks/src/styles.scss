@@ -1,0 +1,14 @@
+/** Mixins SCSS */
+@import "./mixins.scss";
+
+/** Pratical SCSS */
+@import "./pratical.scss";
+
+
+/*** Block ***/
+
+@import "./breadcrumb/style.scss";
+
+
+
+* { max-width: 100vw; }
