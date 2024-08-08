@@ -68,7 +68,7 @@ ACF (Advanced Custom Fields) : pro
 - Page d'accueil utilisant un modèle de page , j'ai utilisé page builder editeur de gutenberg pour la page d'accueil.On auria pu utiliser le fichier font-page.php pour la page d'accueil et coder en php.
 
 
-# Amélioration & Performence
+# Amélioration & Performance
 
 Par manque de temps j'ai fait le style dans les composants templates, mais c'est pas une bonne pratique, il aurrait fallu charger un script de style au préalable d' un fichier main.css
 
