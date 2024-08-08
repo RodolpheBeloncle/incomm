@@ -65,7 +65,7 @@ ACF (Advanced Custom Fields) : pro
 - Pour pouvoir mettre la page recettes dans la page d'actualités :
   -> il faut faire le reglage dans le backoffice
 
-- Page d'accueil utilisant un modèle de page , j'ai utilisé page builder editeur de gutenberg pour la page d'accueil.On auria pu utiliser le fichier font-page.php pour la page d'accueil et coder en php.
+- Page d'accueil utilisant un modèle de page , j'ai utilisé page builder editeur de gutenberg pour la page d'accueil.On aurait pu utiliser le fichier font-page.php pour la page d'accueil et coder en php.
 
 
 # Amélioration & Performance
